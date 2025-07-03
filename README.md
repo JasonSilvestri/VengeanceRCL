@@ -4,14 +4,6 @@
 
 ---
 
-### `VengeanceRCL`: Brought to You by Musician Revolutuion
-
-The `VengeanceRCL` Razor Class Library is brought you by **Musician Revolutuion**.
-
-![Musician Revolutuion](https://github.com/JasonSilvestri/VengeanceRCL/blob/master/VengeanceRCL/wwwroot/images/music-revolution-splash.png)
-
----
-
 ```bash
 # For The Cool Kids: Clone VengeanceRCL Git Repository
 $ git clone https://github.com/JasonSilvestri/VengeanceRCL.git
@@ -19,9 +11,15 @@ $ git clone https://github.com/JasonSilvestri/VengeanceRCL.git
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Get Latest »`](./JSopxNovaFileandDirectoryDesignPatterns.md)
+[`Home`](./README.md) · · [`Next »`](./docs/Official/StoryboardMarkers.md)
 
 ---
+
+### `VengeanceRCL`: Brought to You by Musician Revolutuion
+
+The `VengeanceRCL` Razor Class Library is brought you by **Musician Revolutuion**.
+
+![Musician Revolutuion](https://github.com/JasonSilvestri/VengeanceRCL/blob/master/VengeanceRCL/wwwroot/images/musician-revolution-splash.png)
 
 
 ## Table of Contents  
@@ -35,7 +33,6 @@ $ git clone https://github.com/JasonSilvestri/VengeanceRCL.git
       - [Step 4: Build and Run](#step-4-be-sure-to-build-and-run)
       - [Step 5: Project File Structure](#step-5-project-file-structure)
       - [Step 6: Usage](#step-6-usage)
-      - [Step 7: Extended Usage](#step-7-extended-usage)
   - [Next Steps](#next-steps)
 
 ---
@@ -85,7 +82,11 @@ Due to Jason's dinosaur laptop, we use `Shotcut` as the quick and dirty video ed
 
 ## **Getting Started**
 
-Follow these steps to get started with the `VengeanceRCL` Project. This guide assumes you have a basic understanding of Git, Visual Studio, or Node.js if you plan to use their approach.
+Follow these steps to get started with the `VengeanceRCL` Project. 
+
+This guide will walk you through the process of setting up the `VengeanceRCL` Razor Class Library, including cloning the repository, opening the solution in Visual Studio, configuring the project, and running it.
+
+---
 
 ## **Step 1: Clone the Repository**
 
@@ -172,20 +173,7 @@ Working with the `VengeanceRCL` Project in Visual Studio is simple enough.
 
 ---
 
-### **Step: 3.1: Ensure Dependencies Are Restored:**
-
-Ensure `VengeanceRCL` Project dependencies are restored:
-
-   ```bash
-   npm install
-   ```
-
-
-[`Back to Top`](#table-of-contents)
-
----
-
-### **Option: 3.2: Verify Nuget Packages:**
+### **Option: 3.1: Verify Nuget Packages:**
 
 Verify that all NuGet packages are up to date:
 
@@ -222,22 +210,79 @@ Assuming the `VengeanceRCL` Project is running as expected, **you are now done**
 
 ---
 
-## **Step 6: DDE™ Project References & Dependencies**
+## **Step 5: Project File Structure**
 
-> [!TIP]
+Here’s the `Project File Structure` for the `VengeanceRCL` Razor Class Library in both the _plaintext-tree_ and _styled-table_ formats.
+
+---
+
+### **Step: 5.1: Structured File Tree**:
+
+See the structured file tree below for a quick overview of the `VengeanceRCL` Project, using the _plaintext-tree_ format:
+
+```plaintext
+# VengeanceRCL Project (RCL)
+
+VengeanceRCL/
+├── VengeanceRCL.csproj                     # Razor Class Library project file  
+├── docs/                                   # Documentation directory  
+│   ├── Discovery/                          # Discovery-related markdown and resources  
+│   └── Official/                           # Official legal and reference documents  
+└── wwwroot/                                # Static web assets  
+    ├── artwork/                            # Design assets (logos, artwork)  
+    ├── Audio Assets/                       # Audio files (narration, music)  
+    └── images/                             # Images for docs and splash screens  
+        └── musician-revolution-splash.png  # Project splash image  
+
+
+```
+
+---
+
+### **Step: 5.2: Structured Table**:
+
+See the structured file tree below for a quick overview of the `VengeanceRCL` Project, using the _styled-table_ format:
+
+| **File/Directory**                                         | **Description**                                                         |
+|:-----------------------------------------------------------|:------------------------------------------------------------------------|
+| &nbsp;📁&nbsp;**VengeanceRCL/**                             | Root folder containing the Razor Class Library project                  |
+| &nbsp;&nbsp;&nbsp;├&nbsp;📝&nbsp;`VengeanceRCL.csproj`       | Project file for the Razor Class Library                                |
+| &nbsp;📂&nbsp;**docs/**                                     | Documentation directory                                                 |
+| &nbsp;&nbsp;&nbsp;├&nbsp;📂&nbsp;**Discovery/**            | Discovery-related markdown and resources                                 |
+| &nbsp;&nbsp;&nbsp;└&nbsp;📂&nbsp;**Official/**             | Official legal and reference documents                                   |
+| &nbsp;📂&nbsp;**wwwroot/**                                  | Static web assets (images, audio, artwork)                              |
+| &nbsp;&nbsp;&nbsp;├&nbsp;📂&nbsp;**artwork/**              | Design assets such as logos and artwork                                  |
+| &nbsp;&nbsp;&nbsp;├&nbsp;📂&nbsp;**Audio Assets/**         | Audio files for narration and music                                      |
+| &nbsp;&nbsp;&nbsp;└&nbsp;📂&nbsp;**images/**               | Image assets for documentation and splash screens                        |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└&nbsp;🖼️&nbsp;`musician-revolution-splash.png` | Project splash image used in the README                                  |
+
+
+[`Back to Top`](#table-of-contents)
+
+---
+
+### **Step: 5.3: Expect Growth**:
+
+> [!IMPORTANT]
 >
-> The `VengeanceRCL` Project should already have the DDE™ Project References & Dependencies described below included!
+> Expect the file structures **_shown_ above** to grow as we add more content.
 > 
 
+The `VengeanceRCL` structures **_shown_ above** is one of the most basic iterations of the file structure. There are many videos, images, and documents that will be committed in chunks, due to the size of the collection of media.
+
+Expect the file structures to grow as we add more content.
+
+[`Back to Top`](#table-of-contents)
+
 ---
 
-## **Step 7: Usage**
+## **Step 6: Usage**
 
-Although the `VengeanceRCL` project is primarily designed as a self-contained demonstration project, it is fully capable of integration with other DDE™ projects. Here's how to add it to your project:
+The `VengeanceRCL` project is designed as a self-contained media project that we will be using as the official temporary project until we create an official Musician Revolution repository. 
 
 ---
 
-### **Step 7.1: Adding the DDE™ Vue Core to Other Projects**
+### **Step 6.1: Adding the `VengeanceRCL` Razor Class Library to Other Projects**
 
 1. **Add Project Reference**:
    - Open your solution in Visual Studio.
@@ -248,28 +293,29 @@ Although the `VengeanceRCL` project is primarily designed as a self-contained de
 
 ---
 
-## **Step 8: Extended Usage**
-
-> [!TIP]
-> These particular `Extended Usage` examples **are not** required to implement. They are just example extended usages for those of whom are new to projects like the `VengeanceRCL` Project.
->
-
----
-
 ## Next Steps:
 
-1. **Drop this script** into ElevenLabs, Murf, or any AI voice generator.
-2. For best results:
+if **you did everything right**, you should now have a fully functional `VengeanceRCL` Project set up and running. 
 
-   * Select an emotionally responsive voice (avoid robotic or “promo” tones).
-   * Paste each scene block separately for better tone control.
-   * Use “intonation preview” if available to test how each line sounds.
-3. In **Shotcut**, you can now overlay this narration on your scene sequence.
+With that said, the `VengeanceRCL` Razor Class Library is a _Razor Class Library_, and not typically run standalone. Still, this part of the application is the documentation part of the application, and it is perfectly normal to review this content on the fly, via the repository and/or within Visual Studio.
 
-[`Back to Top`](#table-of-contents)
+There are several sections of the project that you can explore further. In fact, the `VengeanceRCL` Project is designed to be modular and extensible, allowing you to dive deeper into specific areas of interest.
+
+- [1. Storyboard Markers](./docs/Official/StoryboardMarkers.md)
+- [2. Rules of Engagement](./docs/Official/RulesofEngagement.md)
+- [3. Deep Discovery](./docs/Official/DeepDiscovery.md)
+- [4. Viral Exposé Video Script](./docs/Official/ViralExposeVideoScript.md)
+- [5. Editing Videos with Shotcut](./docs/Official/EditingVideoswithShotcut.md)
+- [6. DDE AI Narrator Voice Script](./docs/Official/DdeGiveSendGoAiNarratorVoiceScript.md)
+- [7. DDE Campaign](./docs/Official/DdeGiveSendGoCampaignSync.md)
+- [8. DDE Legal](./docs/Official/DdeGiveSendGoLegal.md)
 
 ---
 
-##### [JSopX.com](https://www.jsopx.com/) | [Jason's Official Website](https://www.jsilvestri.com/) | [X](https://www.x.com/JasonSilvestri) | [LinkedIn](http://www.linkedin.com/in/JasonSilvestri) | [GitHub](https://github.com/JasonSilvestri) | [Gmail](mailto:therealjasonsilvestri@gmail.com) | [Phone : 508-851-9445](phoneto:508-851-9445)
+[`Home`](./README.md) · · [`Back to Top`](#table-of-contents) · [`Next »`](./docs/Official/StoryboardMarkers.md)
 
-###### Copyright © 2025 - All Rights Reserved by Jason Silvestri
+---
+
+##### Follow Campaign: [www.givesendgo.com/dde](https://www.givesendgo.com/dde)
+
+###### Copyright © 2025 - All Rights Reserved by Jason Silvestri & Scott Hall

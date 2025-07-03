@@ -8,7 +8,7 @@
 
 The `VengeanceRCL` Razor Class Library is brought you by **Musician Revolutuion**.
 
-![Musician Revolutuion](https://github.com/JasonSilvestri/VengeanceRCL/blob/master/VengeanceRCL/wwwroot/images/music-revolution-splash.png)
+![Musician Revolutuion](https://github.com/JasonSilvestri/VengeanceRCL/blob/master/VengeanceRCL/wwwroot/images/musician-revolution-splash.png)
 
 ---
 

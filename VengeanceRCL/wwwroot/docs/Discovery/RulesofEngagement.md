@@ -53,13 +53,13 @@ Below are the two original sets for clarity.
 
 | Area                         | Action                                                                                                                               |
 |:-----------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
-| **All Parts of the Video**   | Action-packed, viral, professional copywriting—designed to feel like a “6:00 o’clock News Alert” broadcast.                           |
-| **DDE GiveSendGo Fundraiser**| Content from [givesendgo.com/dde](https://www.givesendgo.com/dde) (created with your help) can be used or adapted; once the video is final, the fundraiser page will mirror it where applicable. |
-| **Shotcut**                  | We’ll use `Shotcut` for editing: video/audio cuts, background/foreground effects (blur, green screen), and final rendering.         |
-| **Stock Video & Audio**      | We have access to stock footage, audio, etc.—use sparingly but strategically to make the video shine.                                  |
-| **Narrators**                | Off-screen Narrators 1 (Anchor), 2 (Field Reporter) & 3 (Witness)—real or AI—so script tone, punctuation, and grammar should favor AI vocalization; real-person improv is OK if needed. |
-| **Scene Expansion**          | As you add bullets, we’ll naturally expand runtime (≈5–6 minutes, or longer if needed).                                              |
-| **Corruption Exposed**       | We’ve compiled timelines, reports, documents, photos & videos demonstrating bad-faith rulings—assume every scene can be backed by video proof. |
+| `All Parts of the Video`   | Action-packed, viral, professional copywriting—designed to feel like a “6:00 o’clock News Alert” broadcast.                           |
+| `DDE GiveSendGo Fundraiser`| Content from [givesendgo.com/dde](https://www.givesendgo.com/dde) (created with your help) can be used or adapted; once the video is final, the fundraiser page will mirror it where applicable. |
+| `Shotcut`                  | We’ll use `Shotcut` for editing: video/audio cuts, background/foreground effects (blur, green screen), and final rendering.         |
+| `Stock Video & Audio`      | We have access to stock footage, audio, etc.—use sparingly but strategically to make the video shine.                                  |
+| `Narrators`                | Off-screen Narrators 1 (Anchor), 2 (Field Reporter) & 3 (Witness)—real or AI—so script tone, punctuation, and grammar should favor AI vocalization; real-person improv is OK if needed. |
+| `Scene Expansion`          | As you add bullets, we’ll naturally expand runtime (≈5–6 minutes, or longer if needed).                                              |
+| `Corruption Exposed`       | We’ve compiled timelines, reports, documents, photos & videos demonstrating bad-faith rulings—assume every scene can be backed by video proof. |
 
 ---
 

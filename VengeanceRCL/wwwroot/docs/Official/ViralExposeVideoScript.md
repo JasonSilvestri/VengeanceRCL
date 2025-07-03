@@ -1,4 +1,4 @@
-﻿# GiveSendGo.com/DDE Adapt Viral Exposé Video Script AI Narrators Official
+﻿# DDE GiveSendGo Adapt Viral Exposé Video Script AI Narrators Official
 
 
  `DDE™ Viral Exposé Video Script` Discovery acts as a basic (_original_) blueprint for the architecure of how we will create a storyboard, handle scenes, etc.

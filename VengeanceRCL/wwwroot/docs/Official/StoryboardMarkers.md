@@ -1,4 +1,4 @@
-﻿# GiveSendGo.com/DDE Storyboard Markers Official
+﻿# DDE GiveSendGo Storyboard Markers Official
 
 
  The `Storyboard Markers` Discovery acts as a basic (_original_) blueprint for the architecure of how we will create a storyboard, handle scenes, etc.

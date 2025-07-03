@@ -1,4 +1,4 @@
-﻿# GiveSendGo.com/DDE VengeanceRCL
+﻿# DDE GiveSendGo VengeanceRCL
 
 `GiveSendGo.com/DDE` (_Deaf, Disabled & Elderly_)™ VengeanceRCL (_Razor Class Library_) acts as a basic blueprint for consistent, scalable, and maintainable creation of content and assets.
 
@@ -224,17 +224,35 @@ See the structured file tree below for a quick overview of the `VengeanceRCL` Pr
 
 # VengeanceRCL Solution
 VengeanceRCL/
-├── VengeanceRCL.sln                            # Solution file linking projects
-└── VengeanceRCL/                               # Razor Class Library project directory
-    ├── VengeanceRCL.csproj                     # Project file for the Razor Class Library
-    └── wwwroot/                                # Static web assets and documentation
-        ├── docs/                               # Documentation directory
-        │   ├── Discovery/                      # Discovery-related markdown and resources
-        │   └── Official/                       # Official legal and reference documents
-        ├── artwork/                            # Design assets such as logos and artwork
-        ├── Audio Assets/                       # Audio files for narration and music
-        └── images/                             # Image assets for documentation and splash screens
-            └── musician-revolution-splash.png  # Project splash image used in the README
+├── VengeanceRCL.sln                                   # Solution file linking projects
+└── VengeanceRCL/                                      # Razor Class Library project directory
+    ├── VengeanceRCL.csproj                            # Project file for the Razor Class Library
+    └── wwwroot/                                       # Static web assets and documentation
+        ├── docs/                                      # Documentation directory
+        │   ├── Discovery/                             # Discovery-phase documentation and scripts
+        │   │   ├── DdeGiveSendGoAiNarratorVoiceScript.md   # AI-driven narrator voice script for storytelling
+        │   │   ├── DdeGiveSendGoCampaignSync.md            # Synchronization plan and timeline for assets
+        │   │   ├── DdeGiveSendGoLegal.md                   # Legal guidelines and compliance information
+        │   │   ├── DeepDiscovery.md                        # In-depth discovery research and audience insights
+        │   │   ├── EditingVideoswithShotcut.md             # Guide for editing videos with Shotcut
+        │   │   ├── README.md                               # Overview of Discovery folder’s contents
+        │   │   ├── RulesofEngagement.md                    # Collaboration and content-production guidelines
+        │   │   ├── StoryboardMarkers.md                    # Annotation guide for storyboard markers
+        │   │   └── ViralExposeVideoScript.md               # Script for the viral exposé-style segment
+        │   └── Official/                             
+        │       ├── DdeGiveSendGoAiNarratorVoiceScript.md   # Official AI narrator voice script
+        │       ├── DdeGiveSendGoCampaignSync.md            # Official campaign synchronization strategy
+        │       ├── DdeGiveSendGoLegal.md                   # Official legal documentation and compliance
+        │       ├── DeepDiscovery.md                        # Official deep-dive discovery report
+        │       ├── EditingVideoswithShotcut.md             # Official Shotcut video-editing workflow
+        │       ├── README.md                               # Overview of Official folder’s reference materials
+        │       ├── RulesofEngagement.md                    # Official rules of engagement and policies
+        │       ├── StoryboardMarkers.md                    # Official storyboard marker reference guide
+        │       └── ViralExposeVideoScript.md               # Official script for the viral exposé segment
+        ├── artwork/                                   # Design assets such as logos and artwork
+        ├── Audio Assets/                              # Audio files for narration and music
+        └── images/                                    # Image assets for docs and splash screens
+            └── musician-revolution-splash.png         # Project splash image used in the README
 
 ```
 
@@ -246,20 +264,38 @@ VengeanceRCL/
 
 See the structured file tree below for a quick overview of the `VengeanceRCL` Project, using the _styled-table_ format:
 
-| **File/Directory**                                                                          | **Description**                                                         |
-|:--------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|
-| &nbsp;📁&nbsp;**VengeanceRCL/**                                                              | Root folder containing the solution                                     |
-| &nbsp;&nbsp;&nbsp;├&nbsp;📝&nbsp;`VengeanceRCL.sln`                                           | Solution file linking projects                                          |
-| &nbsp;&nbsp;&nbsp;└📁&nbsp;**VengeanceRCL/**                                                 | Subfolder for the Razor Class Library project                           |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├&nbsp;📝&nbsp;`VengeanceRCL.csproj`                      | Project file for the Razor Class Library                                |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└📁&nbsp;**wwwroot/**                                    | Static web assets and documentation                                     |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├&nbsp;📂&nbsp;**docs/**               | Documentation directory                                                 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├&nbsp;📂&nbsp;**Discovery/** | Discovery-related markdown and resources                                 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└&nbsp;📂&nbsp;**Official/**  | Official legal and reference documents                                   |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├&nbsp;📂&nbsp;**artwork/**            | Design assets such as logos and artwork                                  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├&nbsp;📂&nbsp;**Audio Assets/**       | Audio files for narration and music                                      |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└&nbsp;📂&nbsp;**images/**             | Image assets for documentation and splash screens                        |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└&nbsp;🖼️‎&nbsp;`musician-revolution-splash.png` | Project splash image used in the README                                  |
+| **File/Directory**                                                                                             | **Description**                                                         |
+|:---------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|
+| &nbsp;📁&nbsp;**VengeanceRCL/**                                                                                 | Root folder containing the solution                                     |
+| &nbsp;&nbsp;&nbsp;├&nbsp;📝&nbsp;`VengeanceRCL.sln`                                                              | Solution file linking projects                                          |
+| &nbsp;&nbsp;&nbsp;└📁&nbsp;**VengeanceRCL/**                                                                     | Subfolder for the Razor Class Library project                           |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├&nbsp;📝&nbsp;`VengeanceRCL.csproj`                                          | Project file for the Razor Class Library                                |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└📁&nbsp;**wwwroot/**                                                        | Static web assets and documentation                                     |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📂&nbsp;**docs/**                                          | Documentation directory                                                 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📂&nbsp;**Discovery/**                     | Discovery-phase documentation and scripts for the DDE GiveSendGo campaign |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`DdeGiveSendGoAiNarratorVoiceScript.md`   | AI-driven narrator voice script for storytelling in the fundraiser video. |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`DdeGiveSendGoCampaignSync.md`          | Synchronization plan and timeline for campaign assets and releases.      |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`DdeGiveSendGoLegal.md`                   | Legal guidelines and compliance information for the campaign.            |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`DeepDiscovery.md`                        | In-depth discovery-phase research findings and audience insights.        |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`EditingVideoswithShotcut.md`             | Step-by-step guide for editing campaign videos using Shotcut.            |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`README.md`                            | Overview of the Discovery folder’s contents and purpose.                |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`RulesofEngagement.md`                   | Team collaboration and content-production guidelines.                   |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`StoryboardMarkers.md`                   | Annotation guide for storyboard markers in the editing workflow.       |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└📝&nbsp;`ViralExposeVideoScript.md`              | Script for the viral exposé-style video segment.                        |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└📂&nbsp;**Official/**                             | Official reference documents for the DDE GiveSendGo campaign.          |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`DdeGiveSendGoAiNarratorVoiceScript.md`   | Official AI narrator voice script for the campaign.                     |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`DdeGiveSendGoCampaignSync.md`          | Official campaign synchronization strategy and schedule.                |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`DdeGiveSendGoLegal.md`                   | Official legal documentation and compliance requirements.               |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`DeepDiscovery.md`                        | Official deep-dive discovery report for stakeholders.                  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`EditingVideoswithShotcut.md`             | Official workflow and best practices for video editing with Shotcut.    |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`README.md`                            | Overview of the Official folder’s reference materials.                 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`RulesofEngagement.md`                   | Official rules of engagement and content usage policies.               |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`StoryboardMarkers.md`                   | Official storyboard marker reference guide.                            |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└📝&nbsp;`ViralExposeVideoScript.md`              | Official script for the viral exposé segment.                          |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📂&nbsp;**artwork/**                                  | Design assets such as logos and artwork.                                |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📂&nbsp;**Audio Assets/**                           | Audio files for narration and music.                                    |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└📂&nbsp;**images/**                                | Image assets for documentation and splash screens.                     |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└🖼️&nbsp;`musician-revolution-splash.png`         | Project splash image used in the README.                                |
 
 
 [`Back to Top`](#table-of-contents)

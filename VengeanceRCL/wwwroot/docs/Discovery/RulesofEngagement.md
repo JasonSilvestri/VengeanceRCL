@@ -1,4 +1,4 @@
-﻿# GiveSendGo.com/DDE Rules of Engagement Discovery
+﻿# DDE GiveSendGo Rules of Engagement Discovery
 
 `GiveSendGo.com/DDE` (_Deaf, Disabled & Elderly_)™ Discovery acts as a basic blueprint for consistent, scalable, and maintainable creation of content and assets.
 

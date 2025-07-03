@@ -1,4 +1,4 @@
-﻿# GiveSendGo.com/DDE Viral Exposé Video Script Official
+﻿# DDE GiveSendGo Viral Exposé Video Script Official
 
 
  `DDE™ Viral Exposé Video Script` Discovery acts as a basic (_original_) blueprint for the architecure of how we will create a storyboard, handle scenes, etc.

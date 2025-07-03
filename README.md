@@ -94,9 +94,9 @@ _Clone_ the `VengeanceRCL` GitHub Repository if you plan to explore it independe
 
 Choose the approach below that fits your environment:  
 
-- **[Bash](#step-11-using-bash)** → Ideal for **Linux, macOS, and Windows (WSL/Git Bash)** users.  
-- **[PowerShell](#step-12-using-powershell)** → Best for **Windows** users.  
-- **[Node.js](#step-13-using-nodejs-or-npm-degit)** → A lightweight option for developers using **JavaScript-based workflows**.  
+- **[Bash](#option-1-using-bash)** → Ideal for **Linux, macOS, and Windows (WSL/Git Bash)** users.  
+- **[PowerShell](#option-2-using-powershell)** → Best for **Windows** users.  
+- **[Node.js](#option-3-using-nodejs-or-npm-degit)** → A lightweight option for developers using **JavaScript-based workflows**.  
 
 ---
 

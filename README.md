@@ -230,7 +230,7 @@ VengeanceRCL/
     └── wwwroot/                                       # Static web assets and documentation
         ├── docs/                                      # Documentation directory
         │   ├── Discovery/                             # Discovery-phase documentation and scripts
-        │   │   ├── DdeGiveSendGoAiNarratorVoiceScript.md   # AI-driven narrator voice script for storytelling
+        │   │   ├── DdeGiveSendGoAiVoices.md   # AI-driven narrator voice script for storytelling
         │   │   ├── DdeGiveSendGoCampaignSync.md            # Synchronization plan and timeline for assets
         │   │   ├── DdeGiveSendGoLegal.md                   # Legal guidelines and compliance information
         │   │   ├── DeepDiscovery.md                        # In-depth discovery research and audience insights
@@ -240,7 +240,7 @@ VengeanceRCL/
         │   │   ├── StoryboardMarkers.md                    # Annotation guide for storyboard markers
         │   │   └── ViralExposeVideoScript.md               # Script for the viral exposé-style segment
         │   └── Official/                             
-        │       ├── DdeGiveSendGoAiNarratorVoiceScript.md   # Official AI narrator voice script
+        │       ├── DdeGiveSendGoAiVoices.md   # Official AI narrator voice script
         │       ├── DdeGiveSendGoCampaignSync.md            # Official campaign synchronization strategy
         │       ├── DdeGiveSendGoLegal.md                   # Official legal documentation and compliance
         │       ├── DeepDiscovery.md                        # Official deep-dive discovery report
@@ -273,7 +273,7 @@ See the structured file tree below for a quick overview of the `VengeanceRCL` Pr
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└📁&nbsp;**wwwroot/**                                                        | Static web assets and documentation                                     |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📂&nbsp;**docs/**                                          | Documentation directory                                                 |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📂&nbsp;**Discovery/**                     | Discovery-phase documentation and scripts for the DDE GiveSendGo campaign |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`DdeGiveSendGoAiNarratorVoiceScript.md`   | AI-driven narrator voice script for storytelling in the fundraiser video. |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`DdeGiveSendGoAiVoices.md`   | AI-driven narrator voice script for storytelling in the fundraiser video. |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`DdeGiveSendGoCampaignSync.md`          | Synchronization plan and timeline for campaign assets and releases.      |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`DdeGiveSendGoLegal.md`                   | Legal guidelines and compliance information for the campaign.            |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`DeepDiscovery.md`                        | In-depth discovery-phase research findings and audience insights.        |
@@ -283,7 +283,7 @@ See the structured file tree below for a quick overview of the `VengeanceRCL` Pr
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`StoryboardMarkers.md`                   | Annotation guide for storyboard markers in the editing workflow.       |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└📝&nbsp;`ViralExposeVideoScript.md`              | Script for the viral exposé-style video segment.                        |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└📂&nbsp;**Official/**                             | Official reference documents for the DDE GiveSendGo campaign.          |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`DdeGiveSendGoAiNarratorVoiceScript.md`   | Official AI narrator voice script for the campaign.                     |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`DdeGiveSendGoAiVoices.md`   | Official AI narrator voice script for the campaign.                     |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`DdeGiveSendGoCampaignSync.md`          | Official campaign synchronization strategy and schedule.                |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`DdeGiveSendGoLegal.md`                   | Official legal documentation and compliance requirements.               |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`DeepDiscovery.md`                        | Official deep-dive discovery report for stakeholders.                  |
@@ -350,7 +350,7 @@ There are several sections of the project that you can explore further. In fact,
 - [3. Deep Discovery](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Official/DeepDiscovery.md)
 - [4. Viral Exposé Video Script](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Official/ViralExposeVideoScript.md)
 - [5. Editing Videos with Shotcut](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Official/EditingVideoswithShotcut.md)
-- [6. DDE AI Narrator Voice Script](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Official/DdeGiveSendGoAiNarratorVoiceScript.md)
+- [6. DDE AI Narrator Voice Script](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Official/DdeGiveSendGoAiVoices.md)
 - [7. DDE Campaign](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Official/DdeGiveSendGoCampaignSync.md)
 - [8. DDE Legal](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Official/DdeGiveSendGoLegal.md)
 

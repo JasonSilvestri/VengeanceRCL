@@ -40,7 +40,7 @@ The `VengeanceRCL` Razor Class Library is brought you by **Musician Revolutuion*
 - [3. Deep Discovery](../../Official/DeepDiscovery.md)
 - [4. Viral Exposé Video Script](../../Official/ViralExposeVideoScript.md)
 - [5. Editing Videos with Shotcut](../../Official/EditingVideoswithShotcut.md)
-- [6. DDE AI Narrator Voice Script](../../Official/DdeGiveSendGoAiNarratorVoiceScript.md)
+- [6. DDE AI Narrator Voice Script](../../Official/DdeGiveSendGoAiVoices.md)
 - [7. DDE Campaign](../../Official/DdeGiveSendGoCampaignSync.md)
 - [8. DDE Legal](../../Official/DdeGiveSendGoLegal.md)
 

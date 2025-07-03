@@ -1,55 +1,92 @@
-﻿# DDE™ GiveSendGo AI Narrator Voice Script - Official
+﻿# DDE GiveSendGo AI Narrator Voice Script - Discovery
 
+**GiveSendGo.com/DDE**
 
- `DDE™ Viral Exposé AI Narrators Script` is the latest acts as a basic (_latest_) blueprint for the architecure of how we will create DDE™ Adapt Viral Exposé Video Script AI Narrator voice overs from storyboards.
-
----
-
-[`Home`](../../README.md) » [`Official`](./ReadMe.md) · · [`Original Discovery »`](../../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md) 
+Our `DDE™ GiveSendGo Campaign Sync` Discovery acts as a basic (_original_) blueprint for how we present the official www.GiveSendGo.com/DDE fundraiser message. 
 
 ---
 
-## **Official Variant:**
+[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Discovery`](./ReadMe.md) · · [`Get Latest`](../../Official/DdeGiveSendGoAiVoices.md)  · · [`« Previous`](./ViralExposeVideoScript.md) [`Next »`](./DdeGiveSendGoCampaignSync.md)
+
+---
+
+## **Discovery Variant:**
 
 > [!CAUTION]
-> You are currently viewing the **"_Official_" _Variant_** of this **VengeanceRCL Project** section.  It should have the most up-to-date content available since its discovery.
+> You are currently viewing the **"_Discovery_" _Variant_** of this **VengeanceRCL Project** section. This is not typically created, and is only here to reference the original discovery we performed on this specific information, before evolving content in the way we use it today.
+> 
+> Most importantly, this content was draft material at the time of creation, and more than likely to have inconsistency in examples, content format, etc.
 >
-> See, [Original Discovery](../../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md) to visit the `discovery` version of this section.
+> See, [Get Latest](../../Official/DdeGiveSendGoAiVoices.md) to visit the `official` latest version of this section.
 
 ---
 
 ## **Overview**
 
 
-**DDE™ (Deaf, Disabled & Elderly)** `DDE GiveSendGo AI Narrator Voice Script` acts as a basic (_latest_) blueprint for the architecure of how we will create DDE™ Adapt Viral Exposé Video Script AI Narrator voice overs from storyboards.
+Our **DDE™ (Deaf, Disabled & Elderly)** `DDE™ DDE GiveSendGo AI Narrator Voice Script` Discovery acts as a basic (_original_) blueprint for how we present the official www.GiveSendGo.com/DDE fundraiser message.
 
 ---
 
-### Table of Contents
-
+## Table of Contents
   - [Overview](#overview)
-  - [Viral Expose Video Script](#viral-expose-video-script)
+  - [Prerequisites](#prerequisites)
+  - [Corequisites](#corequisites)
+  - [Viral Expose Video Script Adapting](#viral-expose-video-script-adapting)
+    - [Option 1: Adapt the Script Format for AI Voice Tools](#-option-1-adapt-the-script-format-for-ai-voice-tools)
+    - [Option 2: Use Platforms That Support Multitrack + AI Narration](#-option-2-use-platforms-that-support-multitrack--ai-narration)
+    - [Best AI Voice Tools for Multi-Tone Scripts:](#-best-ai-voice-tools-for-multi-tone-scripts)
+  - [Bonus: Want to Hand AI the Perfect Voice Script?](#-bonus-want-to-hand-ai-the-perfect-voice-script)
+  - [Voice Maps:](#voice-maps)
+  - [Summary of Format Locked In:](#-summary-of-format-locked-in)
+  - [Summary of Format Special Cases:](#-summary-of-format-special-cases)
+  - [So what does this mean practically?](#-so-what-does-this-mean-practically)
+    - [1. That voice selection at the top is your "active narrator"](#-1-that-voice-selection-at-the-top-is-your-active-narrator)
+    - [2. You must still manually switch the voice in the sidebar](#-2-you-must-still-manually-switch-the-voice-in-the-sidebar)
+    - [3. You’re using the best possible system](#-3-youre-using-the-best-possible-system)
+    - [4. Final Summary](#-4-final-summary)
+    - [Example Flow for DDE GiveSendGo Viral Exposé Video Script: New Scenes](#-example-flow-for-dde-givesendgo-viral-expos-video-script-new-scenes)
+    - [Example Flow for DDE GiveSendGo AI Narrator Voice Script: New Scenes](#-example-flow-for-dde-givesendgo-ai-narrator-voice-script-new-scenes)
   - [Scene Elements Setup](#scene-elements-setup)
   - [Scene-by-Scene Breakdown](#scene-by-scene-breakdown)
     - [Final Structure (Scenes 1–8)](#final-structure-scenes-18)
     - [Final Structure (Scenes 9–13)](#final-structure-scenes-913)
   - [Scene 1: Breaking News Introduction](#scene-1-breaking-news-introduction)
   - [Scene 2: Legal Irregularities Exposed](#scene-2-legal-irregularities-exposed)
-  - [Scene 3: Not a Typical Foreclosure – Meet the Hall Family](#scene-3-not-a-typical-foreclosure-meet-the-hall-family)
-  - [Scene 4: Elderly Mother Caught in the Chaos – Section 12 Hold](#scene-4-elderly-mother-caught-in-the-chaos-section-12-hold)
+  - [Scene 3: Not a Typical Foreclosure – Meet the Hall Family](#scene-3-not-a-typical-foreclosure--meet-the-hall-family)
+  - [Scene 4: Elderly Mother Caught in the Chaos – Section 12 Hold](#scene-4-elderly-mother-caught-in-the-chaos--section-12-hold)
   - [Scene 5: House Condemned Without Due Process](#scene-5-house-condemned-without-due-process)
-  - [Scene 6: Family Under Siege – Isolation and Neglect](#scene-6-family-under-siege-isolation-and-neglect)
-  - [Scene 7: Corruption Exposed – The Fight for Justice](#scene-7-corruption-exposed-the-fight-for-justice)
-  - [Scene 8: Conclusion & Call to Action](#scene-8-conclusion-call-to-action)
-
----
-
-## AI Narrator Voice Script
-
-Below is the most recent `DDE GiveSendGo AI Narrator Voice Script` for the video that was created to promote the `DDE` campaign on `GiveSendGo.com/DDE`. It is a work in progress and will be updated as we continue to develop the content.
-
-[`Back to Top`](#table-of-contents)
-
+  - [Scene 6: Family Under Siege – Isolation and Neglect](#scene-6-family-under-siege--isolation-and-neglect)
+  - [Scene 7: Corruption Exposed – The Fight for Justice](#scene-7-corruption-exposed--the-fight-for-justice)
+  - [Scene 8: Conclusion & Call to Action](#scene-8-conclusion--call-to-action)
+  - [💡 Special Update: We Officially Use ElevenLabs for Narration!](#-special-update-we-officially-use-elevenlabs-for-narration)
+  - [Prompting Eleven v3 (alpha)](#prompting-eleven-v3-alpha)
+  - [Voice Selection](#voice-selection)
+    - [Emotionally Diverse](#emotionally-diverse)
+    - [Targeted Niche](#targeted-niche)
+    - [Neutral](#neutral)
+  - [Settings](#settings)
+    - [Stability](#stability)
+    - [Stability Settings in Eleven](#stability-settings-in-eleven)
+  - [Audio Tags](#audio-tags)
+    - [Voice-Related](#voice-related)
+    - [Sound Effects](#sound-effects)
+    - [Unique and Special](#unique-and-special)
+  - [Punctuation](#punctuation)
+  - [Single Speaker Examples](#single-speaker-examples)
+    - [Expressive Monologue](#expressive-monologue)
+    - [Dynamic and Humorous](#dynamic-and-humorous)
+    - [Customer Service Simulation](#customer-service-simulation)
+  - [Multi-speaker Dialogue](#multi-speaker-dialogue)
+    - [Dialogue Showcase](#dialogue-showcase)
+    - [Comedy and Timing](#comedy-and-timing)
+    - [Overlapping Timing](#overlapping-timing)
+  - [Tips](#-tips)
+    - [Tag Combinations](#tag-combinations)
+    - [Voice Matching](#voice-matching)
+    - [Text Structure](#text-structure)
+    - [Experimentation](#experimentation)
+    
 ---
 
 ## **Prerequisites**
@@ -83,7 +120,7 @@ This means that the following documents are also part of the  [`Storyboard Marke
 1. [Storyboard Markers](../../Discovery/StoryboardMarkers.md)
 2. [Rules of Engagement](../../Discovery/RulesofEngagement.md)
 3. [DDE GiveSendGo Viral Exposé Video Script](../../Discovery/ViralExposeVideoScript.md)
-4. [DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md) ⬅️ You are here!
+4. [DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiVoices.md) ⬅️ You are here!
 5. [DDE GiveSendGo Campaign Sync](../../Discovery/DdeGiveSendGoCampaignSync.md)
 
 
@@ -1092,6 +1129,7 @@ Text structure strongly influences output with v3. Use natural speech patterns, 
 
 There are likely many more effective tags beyond this list. Experiment with descriptive emotional states and actions to discover what works for your specific use case.
 
+
 [`Back to Top`](#table-of-contents)
 
 ---
@@ -1126,11 +1164,11 @@ I caught some issues when testing what **worked best previously** in ElevenLabs:
    * Paste each scene block separately for better tone control.
    * Use “intonation preview” if available to test how each line sounds.
 3. In **Shotcut**, you can now overlay this narration on your scene sequence.
-4. Convert each scene into a `1:1` scene for [`DDE GiveSendGo – AI Narrator Voice Script`](../../Official/DdeGiveSendGoAiNarratorVoiceScript.md) scene voiceovers.
+4. Convert each scene into a `1:1` scene for [`DDE GiveSendGo – AI Narrator Voice Script`](../../Official/DdeGiveSendGoAiVoices.md) scene voiceovers.
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Official`](./ReadMe.md) · · [`Back to Top`](#table-of-contents) · [`Original Discovery »`](../../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md) 
+[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Discovery`](./ReadMe.md) · · [`Get Latest`](../../Official/DdeGiveSendGoAiVoices.md) · [`Back to Top`](#table-of-contents) · [`« Previous`](./ViralExposeVideoScript.md) [`Next »`](./DdeGiveSendGoCampaignSync.md)
 
 ---
 

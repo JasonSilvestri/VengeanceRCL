@@ -78,7 +78,7 @@ Due to Jason's dinosaur laptop, we use `Shotcut` as the quick and dirty video ed
 - [3. Deep Discovery](../../Discovery/DeepDiscovery.md)
 - [4. Viral Exposé Video Script](../../Discovery/ViralExposeVideoScript.md)
 - [5. Editing Videos with Shotcut](../../Discovery/EditingVideoswithShotcut.md)
-- [6. DDE AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md)
+- [6. DDE AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiVoices.md)
 
 ---
 

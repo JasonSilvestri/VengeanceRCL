@@ -35,7 +35,7 @@
 - [3. Deep Discovery](../../Discovery/DeepDiscovery.md)
 - [4. Viral Exposé Video Script](../../Discovery/ViralExposeVideoScript.md)
 - [5. Editing Videos with Shotcut](../../Discovery/EditingVideoswithShotcut.md)
-- [6. DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md)
+- [6. DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiVoices.md)
 - [7. DDE GiveSendGo Campaign Sync](../../Discovery/DdeGiveSendGoCampaignSync.md)
 - [8. DDE GiveSendGo Legal](../../Discovery/DdeGiveSendGoLegal.md)
 
@@ -73,7 +73,7 @@ This means that the following documents are also part of the  [`Storyboard Marke
 1. [Storyboard Markers](../../Discovery/StoryboardMarkers.md)  ⬅️ You are here!
 2. [Rules of Engagement](../../Discovery/RulesofEngagement.md)
 3. [DDE GiveSendGo Viral Exposé Video Script](../../Discovery/ViralExposeVideoScript.md) 
-4. [DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md)
+4. [DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiVoices.md)
 5. [DDE GiveSendGo Campaign Sync](../../Discovery/DdeGiveSendGoCampaignSync.md)
 
 

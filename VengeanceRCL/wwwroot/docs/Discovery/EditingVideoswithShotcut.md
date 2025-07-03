@@ -6,7 +6,7 @@ Our `DDE™ Official GiveSendGo.com/DDE Fundraiser Video Editor` Discovery acts 
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Get Latest`](../../Official/EditingVideoswithShotcut.md) · · [`« Previous`](./DdeGiveSendGoAiNarratorVoiceScript.md) [`Next »`](./DeepDiscovery.md)
+[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Get Latest`](../../Official/EditingVideoswithShotcut.md) · · [`« Previous`](./DdeGiveSendGoAiVoices.md) [`Next »`](./DeepDiscovery.md)
 
 ---
 
@@ -126,7 +126,7 @@ This means that the following documents are also part of the  [`Storyboard Marke
 1. [Storyboard Markers](../../Discovery/StoryboardMarkers.md)
 2. [Rules of Engagement](../../Discovery/RulesofEngagement.md)
 3. [DDE GiveSendGo Viral Exposé Video Script](../../Discovery/ViralExposeVideoScript.md)
-4. [DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md)
+4. [DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiVoices.md)
 5. [DDE GiveSendGo Campaign Sync](../../Discovery/DdeGiveSendGoCampaignSync.md)
 
 [`Back to Top`](#table-of-contents)
@@ -713,7 +713,7 @@ Want me to walk you through this live with a mock project? Or help prep a reusab
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Get Latest`](../../Official/EditingVideoswithShotcut.md) ·· [`Back to Top`](#table-of-contents) · [`« Previous`](./DdeGiveSendGoAiNarratorVoiceScript.md) [`Next »`](./DeepDiscovery.md)
+[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Get Latest`](../../Official/EditingVideoswithShotcut.md) ·· [`Back to Top`](#table-of-contents) · [`« Previous`](./DdeGiveSendGoAiVoices.md) [`Next »`](./DeepDiscovery.md)
 
 ---
 

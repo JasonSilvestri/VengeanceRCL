@@ -6,7 +6,7 @@ Our `DDE™ Official GiveSendGo.com/DDE Fundraiser` Discovery acts as a basic bl
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Get Latest`](../../Official/DdeGiveSendGoCampaignSync.md) · · [`« Previous`](./DdeGiveSendGoAiNarratorVoiceScript.md) [`Next »`](./EditingVideoswithShotcut.md)
+[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Get Latest`](../../Official/DdeGiveSendGoCampaignSync.md) · · [`« Previous`](./DdeGiveSendGoAiVoices.md) [`Next »`](./EditingVideoswithShotcut.md)
 
 ---
 
@@ -87,7 +87,7 @@ This means that the following documents are also part of the  [`Storyboard Marke
 1. [Storyboard Markers](../../Discovery/StoryboardMarkers.md)
 2. [Rules of Engagement](../../Discovery/RulesofEngagement.md)
 3. [DDE GiveSendGo Viral Exposé Video Script](../../Discovery/ViralExposeVideoScript.md)
-4. [DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md)
+4. [DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiVoices.md)
 5. [DDE GiveSendGo Campaign Sync](../../Discovery/DdeGiveSendGoCampaignSync.md) ⬅️ You are here!
 
 
@@ -222,7 +222,7 @@ A lot has happened since the last court appearances on Wednesday, May 7, 2025. B
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Get Latest »`](../../Official/DdeGiveSendGoCampaignSync.md) · · [`Back to Top`](#table-of-contents) · [`« Previous`](./DdeGiveSendGoAiNarratorVoiceScript.md) [`Next »`](./EditingVideoswithShotcut.md)
+[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Get Latest »`](../../Official/DdeGiveSendGoCampaignSync.md) · · [`Back to Top`](#table-of-contents) · [`« Previous`](./DdeGiveSendGoAiVoices.md) [`Next »`](./EditingVideoswithShotcut.md)
 
 ---
 

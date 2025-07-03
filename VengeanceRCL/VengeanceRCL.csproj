@@ -23,7 +23,7 @@ This release does not yet have all the raw video content. It is too much content
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
-    <None Include="wwwroot\docs\Discovery\DdeGiveSendGoAiNarratorVoiceScript.md" />
+    <None Include="wwwroot\docs\Discovery\DdeGiveSendGoAiVoices.md" />
     <None Include="wwwroot\docs\Discovery\DdeGiveSendGoCampaignSync.md" />
     <None Include="wwwroot\docs\Discovery\DdeGiveSendGoLegal.md" />
     <None Include="wwwroot\docs\Discovery\DeepDiscovery.md" />
@@ -32,7 +32,7 @@ This release does not yet have all the raw video content. It is too much content
     <None Include="wwwroot\docs\Discovery\RulesofEngagement.md" />
     <None Include="wwwroot\docs\Discovery\StoryboardMarkers.md" />
     <None Include="wwwroot\docs\Discovery\ViralExposeVideoScript.md" />
-    <None Include="wwwroot\docs\Official\DdeGiveSendGoAiNarratorVoiceScript.md" />
+    <None Include="wwwroot\docs\Official\DdeGiveSendGoAiVoices.md" />
     <None Include="wwwroot\docs\Official\DdeGiveSendGoCampaignSync.md" />
     <None Include="wwwroot\docs\Official\DdeGiveSendGoLegal.md" />
     <None Include="wwwroot\docs\Official\DeepDiscovery.md" />

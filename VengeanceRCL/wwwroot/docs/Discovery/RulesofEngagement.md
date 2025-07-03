@@ -144,7 +144,7 @@ This means that the following documents are also part of the  [`Storyboard Marke
 1. [Storyboard Markers](../../Discovery/StoryboardMarkers.md)
 2. [Rules of Engagement](../../Discovery/RulesofEngagement.md)
 3. [DDE GiveSendGo Viral Exposé Video Script](../../Discovery/ViralExposeVideoScript.md)
-4. [DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md)  ⬅️ You are here!
+4. [DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiVoices.md)  ⬅️ You are here!
 5. [DDE GiveSendGo Campaign Sync](../../Discovery/DdeGiveSendGoCampaignSync.md)
 
 
@@ -153,7 +153,7 @@ This means that the following documents are also part of the  [`Storyboard Marke
 ---
 
 3. [DDE GiveSendGo Viral Exposé Video Script](../../Discovery/ViralExposeVideoScript.md)
-4. [DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md)
+4. [DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiVoices.md)
 5. [DDE GiveSendGo Campaign Sync](../../Discovery/DdeGiveSendGoCampaignSync.md)
 
 

@@ -469,7 +469,7 @@ You can also include `Narrator 3` later if the witness appears — we’ll treat
    * Paste each scene block separately for better tone control.
    * Use “intonation preview” if available to test how each line sounds.
 3. In **Shotcut**, you can now overlay this narration on your scene sequence.
-4. Convert each scene into a `1:1` scene for [`DDE GiveSendGo – AI Narrator Voice Script`](../../Official/DdeGiveSendGoAiNarratorVoiceScript.md) scene voiceovers.
+4. Convert each scene into a `1:1` scene for [`DDE GiveSendGo – AI Narrator Voice Script`](../../Official/DdeGiveSendGoAiVoices.md) scene voiceovers.
 
 
 [`Back to Top`](#table-of-contents)

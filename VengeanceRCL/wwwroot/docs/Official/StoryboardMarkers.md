@@ -33,7 +33,7 @@
 - [3. Deep Discovery](../../Discovery/DeepDiscovery.md)
 - [4. Viral Exposé Video Script](../../Discovery/ViralExposeVideoScript.md)
 - [5. Editing Videos with Shotcut](../../Discovery/EditingVideoswithShotcut.md)
-- [6. DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md)
+- [6. DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiVoices.md)
 - [7. DDE GiveSendGo Campaign Sync](../../Discovery/DdeGiveSendGoCampaignSync.md)
 - [8. DDE GiveSendGo Legal](../../Discovery/DdeGiveSendGoLegal.md)
 

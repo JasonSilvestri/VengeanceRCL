@@ -4,7 +4,7 @@
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Discovery`](./ReadMe.md) · · [`Get Latest »`](../../Official/ViralExposeVideoScript.md) · · [`« Previous`](./RulesofEngagement.md) [`Next »`](./DdeGiveSendGoAiNarratorVoiceScript.md)
+[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Discovery`](./ReadMe.md) · · [`Get Latest »`](../../Official/ViralExposeVideoScript.md) · · [`« Previous`](./RulesofEngagement.md) [`Next »`](./DdeGiveSendGoAiVoices.md)
 
 ---
 
@@ -34,7 +34,7 @@
 - [3. Deep Discovery](../../Discovery/DeepDiscovery.md)
 - [4. Viral Exposé Video Script](../../Discovery/ViralExposeVideoScript.md)
 - [5. Editing Videos with Shotcut](../../Discovery/EditingVideoswithShotcut.md)
-- [6. DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md)
+- [6. DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiVoices.md)
 - [7. DDE GiveSendGo Campaign Sync](../../Discovery/DdeGiveSendGoCampaignSync.md)
 - [8. DDE GiveSendGo Legal](../../Discovery/DdeGiveSendGoLegal.md)
 
@@ -71,7 +71,7 @@ This means that the following documents are also part of the  [`Storyboard Marke
 1. [Storyboard Markers](../../Discovery/StoryboardMarkers.md)
 2. [Rules of Engagement](../../Discovery/RulesofEngagement.md)
 3. [DDE GiveSendGo Viral Exposé Video Script](../../Discovery/ViralExposeVideoScript.md)
-4. [DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md) ⬅️ You are here!
+4. [DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiVoices.md) ⬅️ You are here!
 5. [DDE GiveSendGo Campaign Sync](../../Discovery/DdeGiveSendGoCampaignSync.md)
 
 
@@ -1115,7 +1115,7 @@ I caught some issues when testing what **worked best previously** in ElevenLabs:
    * Paste each scene block separately for better tone control.
    * Use “intonation preview” if available to test how each line sounds.
 3. In **Shotcut**, you can now overlay this narration on your scene sequence.
-4. Convert each scene into a `1:1` scene for [`DDE GiveSendGo – AI Narrator Voice Script`](../../Official/DdeGiveSendGoAiNarratorVoiceScript.md) scene voiceovers.
+4. Convert each scene into a `1:1` scene for [`DDE GiveSendGo – AI Narrator Voice Script`](../../Official/DdeGiveSendGoAiVoices.md) scene voiceovers.
 
 ---
 
@@ -1304,7 +1304,7 @@ This means that the following documents are also part of the  [`Storyboard Marke
 1. [Storyboard Markers](../../Discovery/StoryboardMarkers.md)
 2. [Rules of Engagement](../../Discovery/RulesofEngagement.md)
 3. [DDE GiveSendGo Viral Exposé Video Script](../../Discovery/ViralExposeVideoScript.md)
-4. [DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md) ⬅️ You are here!
+4. [DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiVoices.md) ⬅️ You are here!
 5. [DDE GiveSendGo Campaign Sync](../../Discovery/DdeGiveSendGoCampaignSync.md)
 
 
@@ -2834,7 +2834,7 @@ There are likely many more effective tags beyond this list. Experiment with desc
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Discovery`](./ReadMe.md) · [`Get Latest »`](../../Official/ViralExposeVideoScript.md) · · [`Back to Top`](#table-of-contents) · [`« Previous`](./RulesofEngagement.md) [`Next »`](./DdeGiveSendGoAiNarratorVoiceScript.md)
+[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Discovery`](./ReadMe.md) · [`Get Latest »`](../../Official/ViralExposeVideoScript.md) · · [`Back to Top`](#table-of-contents) · [`« Previous`](./RulesofEngagement.md) [`Next »`](./DdeGiveSendGoAiVoices.md)
 
 ---
 

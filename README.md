@@ -43,9 +43,7 @@ The `VengeanceRCL` Razor Class Library is brought you by **Musician Revolutuion*
 
 Before you can get started with the `VengeanceRCL` Project, you need to ensure you have the following prerequisites installed and configured on your system:
 
----
-
-### **Core Technologies**:
+### **1. Core Technologies**:
 
 These technologies are essential for the development and execution of the `VengeanceRCL` Project. They provide the necessary frameworks, libraries, and tools to build and run the project effectively.
 
@@ -57,7 +55,7 @@ These technologies are essential for the development and execution of the `Venge
 
 ---
 
-### **Extended Use of AI**:
+### **2. Extended Use of AI**:
 
 We use `ElevenLabs` Ultra realistic, supports SSML-like input for tone/pauses in the creation of our AI Narrator Scripts.
  
@@ -65,7 +63,7 @@ We use `ElevenLabs` Ultra realistic, supports SSML-like input for tone/pauses in
 
 ---
 
-### **Video Editing**:
+### **3. Video Editing**:
 
 Due to Jason's dinosaur laptop, we use `Shotcut` as the quick and dirty video editor to create videos. Our current laptops can't handle the more modern editors with advanced graphics card requirements.
 
@@ -81,6 +79,8 @@ Due to Jason's dinosaur laptop, we use `Shotcut` as the quick and dirty video ed
 Follow these steps to get started with the `VengeanceRCL` Project. 
 
 This guide will walk you through the process of setting up the `VengeanceRCL` Razor Class Library, including cloning the repository, opening the solution in Visual Studio, configuring the project, and running it.
+
+- **[Get Started](#step-1-clone-the-repository)** → with **Step 1: Clone the Repository** users.  
 
 ---
 
@@ -223,36 +223,37 @@ See the structured file tree below for a quick overview of the `VengeanceRCL` Pr
 ```plaintext
 
 # VengeanceRCL Solution
+
 VengeanceRCL/
-├── VengeanceRCL.sln                                   # Solution file linking projects
-└── VengeanceRCL/                                      # Razor Class Library project directory
-    ├── VengeanceRCL.csproj                            # Project file for the Razor Class Library
-    └── wwwroot/                                       # Static web assets and documentation
-        ├── docs/                                      # Documentation directory
-        │   ├── Discovery/                             # Discovery-phase documentation and scripts
-        │   │   ├── DdeGiveSendGoAiVoices.md   # AI-driven narrator voice script for storytelling
-        │   │   ├── DdeGiveSendGoCampaignSync.md            # Synchronization plan and timeline for assets
-        │   │   ├── DdeGiveSendGoLegal.md                   # Legal guidelines and compliance information
-        │   │   ├── DeepDiscovery.md                        # In-depth discovery research and audience insights
-        │   │   ├── EditingVideoswithShotcut.md             # Guide for editing videos with Shotcut
-        │   │   ├── README.md                               # Overview of Discovery folder’s contents
-        │   │   ├── RulesofEngagement.md                    # Collaboration and content-production guidelines
-        │   │   ├── StoryboardMarkers.md                    # Annotation guide for storyboard markers
-        │   │   └── ViralExposeVideoScript.md               # Script for the viral exposé-style segment
+├── VengeanceRCL.sln                              # Solution file linking projects
+└── VengeanceRCL/                                 # Razor Class Library project directory
+    ├── VengeanceRCL.csproj                       # Project file for the Razor Class Library
+    └── wwwroot/                                  # Static web assets and documentation
+        ├── docs/                                 # Documentation directory
+        │   ├── Discovery/                        # Discovery-phase documentation and scripts
+        │   │   ├── DdeGiveSendGoAiVoices.md      # AI-driven narrator voice script for storytelling
+        │   │   ├── DdeGiveSendGoCampaignSync.md  # Synchronization plan and timeline for assets
+        │   │   ├── DdeGiveSendGoLegal.md         # Legal guidelines and compliance information
+        │   │   ├── DeepDiscovery.md              # In-depth discovery research and audience insights
+        │   │   ├── EditingVideoswithShotcut.md   # Guide for editing videos with Shotcut
+        │   │   ├── README.md                     # Overview of Discovery folder’s contents
+        │   │   ├── RulesofEngagement.md          # Collaboration and content-production guidelines
+        │   │   ├── StoryboardMarkers.md          # Annotation guide for storyboard markers
+        │   │   └── ViralExposeVideoScript.md     # Script for the viral exposé-style segment
         │   └── Official/                             
-        │       ├── DdeGiveSendGoAiVoices.md   # Official AI narrator voice script
-        │       ├── DdeGiveSendGoCampaignSync.md            # Official campaign synchronization strategy
-        │       ├── DdeGiveSendGoLegal.md                   # Official legal documentation and compliance
-        │       ├── DeepDiscovery.md                        # Official deep-dive discovery report
-        │       ├── EditingVideoswithShotcut.md             # Official Shotcut video-editing workflow
-        │       ├── README.md                               # Overview of Official folder’s reference materials
-        │       ├── RulesofEngagement.md                    # Official rules of engagement and policies
-        │       ├── StoryboardMarkers.md                    # Official storyboard marker reference guide
-        │       └── ViralExposeVideoScript.md               # Official script for the viral exposé segment
-        ├── artwork/                                   # Design assets such as logos and artwork
-        ├── Audio Assets/                              # Audio files for narration and music
-        └── images/                                    # Image assets for docs and splash screens
-            └── musician-revolution-splash.png         # Project splash image used in the README
+        │       ├── DdeGiveSendGoAiVoices.md      # Official AI narrator voice script
+        │       ├── DdeGiveSendGoCampaignSync.md  # Official campaign synchronization strategy
+        │       ├── DdeGiveSendGoLegal.md         # Official legal documentation and compliance
+        │       ├── DeepDiscovery.md              # Official deep-dive discovery report
+        │       ├── EditingVideoswithShotcut.md   # Official Shotcut video-editing workflow
+        │       ├── README.md                     # Overview of Official folder’s reference materials
+        │       ├── RulesofEngagement.md          # Official rules of engagement and policies
+        │       ├── StoryboardMarkers.md          # Official storyboard marker reference guide
+        │       └── ViralExposeVideoScript.md     # Official script for the viral exposé segment
+        ├── artwork/                              # Design assets such as logos and artwork
+        ├── Audio Assets/                         # Audio files for narration and music
+        └── images/                               # Image assets for docs and splash screens
+            └── musician-revolution-splash.png    # Project splash image used in the README
 
 ```
 
@@ -302,21 +303,6 @@ See the structured file tree below for a quick overview of the `VengeanceRCL` Pr
 
 ---
 
-### **Step: 5.3: Expect Growth**:
-
-> [!IMPORTANT]
->
-> Expect the file structures **_shown_ above** to grow as we add more content.
-> 
-
-The `VengeanceRCL` structures **_shown_ above** is one of the most basic iterations of the file structure. There are many videos, images, and documents that will be committed in chunks, due to the size of the collection of media.
-
-Expect the file structures to grow as we add more content.
-
-[`Back to Top`](#table-of-contents)
-
----
-
 ## **Step 6: Usage**
 
 The `VengeanceRCL` project is designed as a self-contained media project that we will be using as the official temporary project until we create an official Musician Revolution repository. 
@@ -330,6 +316,8 @@ The `VengeanceRCL` project is designed as a self-contained media project that we
    - Right-click the project that will use `VengeanceRCL` and select `Add > Project Reference`.
    - Check the box for `VengeanceRCL` and click `OK`.
 
+**You can _now_** use the classes and methods defined in the `VengeanceRCL` project in your code files.
+
 [`Back to Top`](#table-of-contents)
 
 ---
@@ -340,23 +328,12 @@ if **you did everything right**, you should now have a fully functional `Vengean
 
 With that said, the `VengeanceRCL` Razor Class Library is a _Razor Class Library_, is made up of two primary variants of content. 
 
-- **[Latest (Recommended)](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Official/README.md)** → Ideal for exploring the absolute latest versions of documents, processeses and/or design patterns we use today in relation to the variant content. It is **NOT** uncommon to have more content, final proofs, etc. in the latest version of the project for here.
-- **[Discovery](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Discovery/README.md)** → Best for looking into some of the historical research, resources, and other sources we pull together while brainstorming or prototyping content. It is **NOT** uncommon to find redundant content, errors, draft content, and/or other obvious considerations.  
-
-There are several sections of the project that you can explore further. In fact, the `VengeanceRCL` Project is designed to be modular and extensible, allowing you to dive deeper into specific areas of interest.
-
-- [1. Storyboard Markers](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Official/StoryboardMarkers.md)
-- [2. Rules of Engagement](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Official/RulesofEngagement.md)
-- [3. Deep Discovery](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Official/DeepDiscovery.md)
-- [4. Viral Exposé Video Script](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Official/ViralExposeVideoScript.md)
-- [5. Editing Videos with Shotcut](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Official/EditingVideoswithShotcut.md)
-- [6. DDE AI Narrator Voice Script](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Official/DdeGiveSendGoAiVoices.md)
-- [7. DDE Campaign](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Official/DdeGiveSendGoCampaignSync.md)
-- [8. DDE Legal](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Official/DdeGiveSendGoLegal.md)
+1. **[Latest (Recommended)](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Official/README.md)** → Ideal for exploring the absolute latest versions of documents, processeses and/or design patterns we use today in relation to the variant content. It is **NOT** uncommon to have more content, final proofs, etc. in the latest version of the project for here.
+2. **[Discovery](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Discovery/README.md)** → Best for looking into some of the historical research, resources, and other sources we pull together while brainstorming or prototyping content. It is **NOT** uncommon to find redundant content, errors, draft content, and/or other obvious considerations.  
 
 ---
 
-[`Home`](./README.md) · · [`Back to Top`](#table-of-contents) · [`Next »`](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Official/StoryboardMarkers.md)
+[`Home`](./README.md) · · [`Back to Top`](#table-of-contents) · [`Next »`](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Official/README.md)
 
 ---
 

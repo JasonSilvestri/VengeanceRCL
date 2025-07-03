@@ -93,7 +93,7 @@ The **DDE™ GiveSendGo Project** addresses **several** high-level **business co
 
 We initially create the **DDE™ GiveSendGo Project** to help fight the good fight, but it is quickly turning into a place to Snash. 
 
-![Music Revolutuion](./images/music-revolution-splash.png)
+![Music Revolutuion](https://github.com/JasonSilvestri/VengeanceRCL/blob/master/VengeanceRCL/wwwroot/images/music-revolution-splash.png)
 
 [`Back to Top`](#table-of-contents) · · [`« Previous`](#business-concerns-addressed) [`Next »`](#getting-started)
 

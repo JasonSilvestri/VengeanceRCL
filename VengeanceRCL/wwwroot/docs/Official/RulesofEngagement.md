@@ -36,15 +36,17 @@
 
 I initially created this document to outline how we will handle the `Storyboard Markers` content suggestions we make in requests with the following special wrapper:
 
-```plaintext 
+- Anything wrapped in:
 
-[add to storyboard]
-... your bullet content ...
-[/add to storyboard]
+  ```
+  [add to storyboard]
+  ... your bullet content ...
+  [/add to storyboard]
+  ```
 
-```
+- Will be treated as **canon** — meaning Lumnia will: 
 
-When Lumina sees this in a request, we ensure we check the following `Rules of Engagement` rules:
+- When Lumina sees this in a request, we ensure we check the following `Rules of Engagement` rules:
 
 ---
 

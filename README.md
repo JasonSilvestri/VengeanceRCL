@@ -221,19 +221,20 @@ Here’s the `Project File Structure` for the `VengeanceRCL` Razor Class Library
 See the structured file tree below for a quick overview of the `VengeanceRCL` Project, using the _plaintext-tree_ format:
 
 ```plaintext
-# VengeanceRCL Project (RCL)
 
+# VengeanceRCL Solution
 VengeanceRCL/
-├── VengeanceRCL.csproj                     # Razor Class Library project file  
-├── docs/                                   # Documentation directory  
-│   ├── Discovery/                          # Discovery-related markdown and resources  
-│   └── Official/                           # Official legal and reference documents  
-└── wwwroot/                                # Static web assets  
-    ├── artwork/                            # Design assets (logos, artwork)  
-    ├── Audio Assets/                       # Audio files (narration, music)  
-    └── images/                             # Images for docs and splash screens  
-        └── musician-revolution-splash.png  # Project splash image  
-
+├── VengeanceRCL.sln                            # Solution file linking projects
+└── VengeanceRCL/                               # Razor Class Library project directory
+    ├── VengeanceRCL.csproj                     # Project file for the Razor Class Library
+    └── wwwroot/                                # Static web assets and documentation
+        ├── docs/                               # Documentation directory
+        │   ├── Discovery/                      # Discovery-related markdown and resources
+        │   └── Official/                       # Official legal and reference documents
+        ├── artwork/                            # Design assets such as logos and artwork
+        ├── Audio Assets/                       # Audio files for narration and music
+        └── images/                             # Image assets for documentation and splash screens
+            └── musician-revolution-splash.png  # Project splash image used in the README
 
 ```
 
@@ -243,18 +244,20 @@ VengeanceRCL/
 
 See the structured file tree below for a quick overview of the `VengeanceRCL` Project, using the _styled-table_ format:
 
-| **File/Directory**                                         | **Description**                                                         |
-|:-----------------------------------------------------------|:------------------------------------------------------------------------|
-| &nbsp;📁&nbsp;**VengeanceRCL/**                             | Root folder containing the Razor Class Library project                  |
-| &nbsp;&nbsp;&nbsp;├&nbsp;📝&nbsp;`VengeanceRCL.csproj`       | Project file for the Razor Class Library                                |
-| &nbsp;📂&nbsp;**docs/**                                     | Documentation directory                                                 |
-| &nbsp;&nbsp;&nbsp;├&nbsp;📂&nbsp;**Discovery/**            | Discovery-related markdown and resources                                 |
-| &nbsp;&nbsp;&nbsp;└&nbsp;📂&nbsp;**Official/**             | Official legal and reference documents                                   |
-| &nbsp;📂&nbsp;**wwwroot/**                                  | Static web assets (images, audio, artwork)                              |
-| &nbsp;&nbsp;&nbsp;├&nbsp;📂&nbsp;**artwork/**              | Design assets such as logos and artwork                                  |
-| &nbsp;&nbsp;&nbsp;├&nbsp;📂&nbsp;**Audio Assets/**         | Audio files for narration and music                                      |
-| &nbsp;&nbsp;&nbsp;└&nbsp;📂&nbsp;**images/**               | Image assets for documentation and splash screens                        |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└&nbsp;🖼️&nbsp;`musician-revolution-splash.png` | Project splash image used in the README                                  |
+| **File/Directory**                                                                          | **Description**                                                         |
+|:--------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|
+| &nbsp;📁&nbsp;**VengeanceRCL/**                                                              | Root folder containing the solution                                     |
+| &nbsp;&nbsp;&nbsp;├&nbsp;📝&nbsp;`VengeanceRCL.sln`                                           | Solution file linking projects                                          |
+| &nbsp;&nbsp;&nbsp;└📁&nbsp;**VengeanceRCL/**                                                 | Subfolder for the Razor Class Library project                           |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├&nbsp;📝&nbsp;`VengeanceRCL.csproj`                      | Project file for the Razor Class Library                                |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└📁&nbsp;**wwwroot/**                                    | Static web assets and documentation                                     |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├&nbsp;📂&nbsp;**docs/**               | Documentation directory                                                 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├&nbsp;📂&nbsp;**Discovery/** | Discovery-related markdown and resources                                 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└&nbsp;📂&nbsp;**Official/**  | Official legal and reference documents                                   |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├&nbsp;📂&nbsp;**artwork/**            | Design assets such as logos and artwork                                  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├&nbsp;📂&nbsp;**Audio Assets/**       | Audio files for narration and music                                      |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└&nbsp;📂&nbsp;**images/**             | Image assets for documentation and splash screens                        |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└&nbsp;🖼️‎&nbsp;`musician-revolution-splash.png` | Project splash image used in the README                                  |
 
 
 [`Back to Top`](#table-of-contents)

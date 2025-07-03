@@ -11,10 +11,6 @@ $ git clone https://github.com/JasonSilvestri/VengeanceRCL.git
 
 ---
 
-[`Home`](./README.md) · · [`Next »`](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Official/StoryboardMarkers.md)
-
----
-
 ### `VengeanceRCL`: Brought to You by Musician Revolutuion
 
 The `VengeanceRCL` Razor Class Library is brought you by **Musician Revolutuion**.
@@ -195,6 +191,10 @@ Building and Running the `VengeanceRCL` Project in Visual Studio is also another
 2. Run the project:
    - Use the **IIS Express** profile for local development.
 
+There are other profiles available, but the **IIS Express** profile is the most common and recommended for local development.
+
+[`Back to Top`](#table-of-contents)
+
 ---
 
 ### **Step: 4.2: And Now Your Done**:
@@ -237,6 +237,8 @@ VengeanceRCL/
             └── musician-revolution-splash.png  # Project splash image used in the README
 
 ```
+
+[`Back to Top`](#table-of-contents)
 
 ---
 
@@ -300,7 +302,10 @@ The `VengeanceRCL` project is designed as a self-contained media project that we
 
 if **you did everything right**, you should now have a fully functional `VengeanceRCL` Project set up and running. 
 
-With that said, the `VengeanceRCL` Razor Class Library is a _Razor Class Library_, and not typically run standalone. Still, this part of the application is the documentation part of the application, and it is perfectly normal to review this content on the fly, via the repository and/or within Visual Studio.
+With that said, the `VengeanceRCL` Razor Class Library is a _Razor Class Library_, is made up of two primary variants of content. 
+
+- **[Latest (Recommended)](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Official/README.md)** → Ideal for exploring the absolute latest versions of documents, processeses and/or design patterns we use today in relation to the variant content. It is **NOT** uncommon to have more content, final proofs, etc. in the latest version of the project for here.
+- **[Discovery](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Discovery/README.md)** → Best for looking into some of the historical research, resources, and other sources we pull together while brainstorming or prototyping content. It is **NOT** uncommon to find redundant content, errors, draft content, and/or other obvious considerations.  
 
 There are several sections of the project that you can explore further. In fact, the `VengeanceRCL` Project is designed to be modular and extensible, allowing you to dive deeper into specific areas of interest.
 

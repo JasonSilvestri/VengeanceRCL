@@ -11,7 +11,7 @@ $ git clone https://github.com/JasonSilvestri/VengeanceRCL.git
 
 ---
 
-[`Home`](./README.md) · · [`Next »`](./../docs/Official/StoryboardMarkers.md)
+[`Home`](./README.md) · · [`Next »`](./../../docs/Official/StoryboardMarkers.md)
 
 ---
 
@@ -301,18 +301,18 @@ With that said, the `VengeanceRCL` Razor Class Library is a _Razor Class Library
 
 There are several sections of the project that you can explore further. In fact, the `VengeanceRCL` Project is designed to be modular and extensible, allowing you to dive deeper into specific areas of interest.
 
-- [1. Storyboard Markers](./../docs/Official/StoryboardMarkers.md)
-- [2. Rules of Engagement](./../docs/Official/RulesofEngagement.md)
-- [3. Deep Discovery](./../docs/Official/DeepDiscovery.md)
-- [4. Viral Exposé Video Script](./../docs/Official/ViralExposeVideoScript.md)
-- [5. Editing Videos with Shotcut](./../docs/Official/EditingVideoswithShotcut.md)
-- [6. DDE AI Narrator Voice Script](./../docs/Official/DdeGiveSendGoAiNarratorVoiceScript.md)
-- [7. DDE Campaign](./../docs/Official/DdeGiveSendGoCampaignSync.md)
-- [8. DDE Legal](./../docs/Official/DdeGiveSendGoLegal.md)
+- [1. Storyboard Markers](./../../docs/Official/StoryboardMarkers.md)
+- [2. Rules of Engagement](./../../docs/Official/RulesofEngagement.md)
+- [3. Deep Discovery](./../../docs/Official/DeepDiscovery.md)
+- [4. Viral Exposé Video Script](./../../docs/Official/ViralExposeVideoScript.md)
+- [5. Editing Videos with Shotcut](./../../docs/Official/EditingVideoswithShotcut.md)
+- [6. DDE AI Narrator Voice Script](./../../docs/Official/DdeGiveSendGoAiNarratorVoiceScript.md)
+- [7. DDE Campaign](./../../docs/Official/DdeGiveSendGoCampaignSync.md)
+- [8. DDE Legal](./../../docs/Official/DdeGiveSendGoLegal.md)
 
 ---
 
-[`Home`](./README.md) · · [`Back to Top`](#table-of-contents) · [`Next »`](./../docs/Official/StoryboardMarkers.md)
+[`Home`](./README.md) · · [`Back to Top`](#table-of-contents) · [`Next »`](./../../docs/Official/StoryboardMarkers.md)
 
 ---
 

@@ -51,15 +51,15 @@ Below are the two original sets for clarity.
 
 ### 🧭 **DDE GiveSendGo – Rules of Engagement**:
 
-| Area                       | Action                                                                                                                               |
-|: -------------------------- |: ------------------------------------------------------------------------------------------------------------------------------------ |
-| **All Parts of the Video** | This video should be action packed, with viral, professional copy-writing based content, with the closest resemblance to a real "6:00 o'clock News Alert" like broadcast video as we can.            |
-| **DDE GiveSendGo Fundraiser**       | Any content found at [www.givesendgo.com/dde](https://www.givesendgo.com/dde) was largely created with your help. You may use any content here within video or change any content to fit either outlets (the givesendgo.com page or video). Once all video scripts and story boards are final, we will update the fundraiser to practically mirror the contents of the video (where applicable). |
-| **Shotcut**       | We'll be using `Shotcut` for the video editing to add video and/or audio, background and foreground effects (blur a face or use a green screen), render videos. |
-| **Stock Video & Audio**      | We already have access to assets relative to stock footage, audio, etc., we can use as we need (where applicable). We should try to use such assets sparingly, but we should do whatever it takes to make this video the best it can be. |
-| **Narrators**  | There will be an off screen Narrator 1 (Anchor), Narrator 2 (Field Reporter) & Narrator 3 (In-Person Witness) available for any and all filler content anywhere you see fit. He or she will be the news broadcast person. This "person" may be real or AI generated, so the script words, punctuation, grammar, etc., (I feel) should be geared more towards AIs and how they would prefer to see it and make the audio sound the most authentic. Real people can be tasked with last minute improv if necessary.      |
-| **Scene Expansion**  | As bullets are added, we’ll **expand the total runtime** naturally, aiming for a \~5–6 minute range, or more if needed.              |
-| **Corruption Exposed**  | We’ve compiled timelines, incident reports, documents, photos, and videos proving that the judge and lawyers who ruled against the Halls acted in bad faith. Building a case against them is now possible—and it should be assumed that all content suggested for scenes can be backed by video proof.              |
+| Area                         | Action                                                                                                                               |
+|:-----------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
+| **All Parts of the Video**   | Action-packed, viral, professional copywriting—designed to feel like a “6:00 o’clock News Alert” broadcast.                           |
+| **DDE GiveSendGo Fundraiser**| Content from [givesendgo.com/dde](https://www.givesendgo.com/dde) (created with your help) can be used or adapted; once the video is final, the fundraiser page will mirror it where applicable. |
+| **Shotcut**                  | We’ll use `Shotcut` for editing: video/audio cuts, background/foreground effects (blur, green screen), and final rendering.         |
+| **Stock Video & Audio**      | We have access to stock footage, audio, etc.—use sparingly but strategically to make the video shine.                                  |
+| **Narrators**                | Off-screen Narrators 1 (Anchor), 2 (Field Reporter) & 3 (Witness)—real or AI—so script tone, punctuation, and grammar should favor AI vocalization; real-person improv is OK if needed. |
+| **Scene Expansion**          | As you add bullets, we’ll naturally expand runtime (≈5–6 minutes, or longer if needed).                                              |
+| **Corruption Exposed**       | We’ve compiled timelines, reports, documents, photos & videos demonstrating bad-faith rulings—assume every scene can be backed by video proof. |
 
 ---
 

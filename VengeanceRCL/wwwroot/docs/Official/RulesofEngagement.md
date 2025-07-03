@@ -52,24 +52,21 @@ I initially created this document to outline how we will handle the `Storyboard 
 
 ## **DDE GiveSendGo – Rules of Engagement**:
 
-
-| Area                        | Action                                                                                                                               |
-|: -------------------------- |: ------------------------------------------------------------------------------------------------------------------------------------ |
-| **All Parts of the Video** | This video should be action packed, with viral, professional copy-writing based content, with the closest resemblance to a real "6:00 o'clock News Alert" like broadcast video as we can. |
-| **DDE GiveSendGo Fundraiser**       | Any content found at [www.givesendgo.com/dde](https://www.givesendgo.com/dde) was largely created with your help. You may use any content here within video or change any content to fit either outlets (the givesendgo.com page or video). Once all video scripts and story boards are final, we will update the fundraiser to practically mirror the contents of the video (where applicable). |
-| **Shotcut**       | We'll be using `Shotcut` for the video editing to add video and/or audio, background and foreground effects (blur a face or use a green screen), render videos. |
-| **Stock Video & Audio**      | We already have access to assets relative to stock footage, audio, etc., we can use as we need (where applicable). We should try to use such assets sparingly, but we should do whatever it takes to make this video the best it can be. |
-| **Narrators**  | There will be an off screen Narrator 1 (Anchor), Narrator 2 (Field Reporter) & Narrator 3 (In-Person Witness) available for any and all filler content anywhere you see fit. He or she will be the news broadcast person. This "person" may be real or AI generated, so the script words, punctuation, grammar, etc., (I feel) should be geared more towards AIs and how they would prefer to see it and make the audio sound the most authentic. Real people can be tasked with last minute improv if necessary.      |
-| **Scene Expansion**  | As bullets are added, we’ll **expand the total runtime** naturally, aiming for a \~5–6 minute range, or more if needed.              |
-| **Corruption Exposed**  | We’ve compiled timelines, incident reports, documents, photos, and videos proving that the judge and lawyers who ruled against the Halls acted in bad faith. Building a case against them is now possible—and it should be assumed that all content suggested for scenes can be backed by video proof.              |
-| **Shotcut Asset Workflow** | We’ll stick to visual cue-based scenes. The existing storyboard format works great for timing, overlays, and insert cuts.            |
-| **Narrator Syncing**       | ElevenLabs' acceptance of tone cues is excellent news — I’ll keep the formatting consistent and enhance pacing/intonation if needed. |
-| **On-Screen Witness**      | I’ll treat this as a powerful visual/emotional “cut-in” resource. I’ll suggest where it could appear mid-scene to elevate impact.    |
-| **Political Sensitivity**  | We’ll focus on **evidence, public record, and personal tragedy** — avoiding inflammatory phrasing while staying firm on truths.      |
-| **Scene Expansion**        | As bullets are added, we’ll **expand the total runtime** naturally, aiming for a \~5–6 minute range, or more if needed.              |
-| **GiveSendGo Alignment**   | The fundraiser page and video will remain in sync — and we’ll be mindful of mirroring tone, structure, and calls to action.          |
-| **Your Key Findings & How We’ll Handle Them**   | Before we render a request in chat gpt user interface, be sure to review these unique considerations.            |
-
+| Area                       | Action                                                                                                                               |
+|:---------------------------|:--------------------------------------------------------------------------------------------------------------------------------------|
+| **All Parts of the Video** | This video should be action-packed, with viral, professional copywriting…                                                             |
+| **DDE GiveSendGo…**        | Any content found at [givesendgo.com/dde](https://www.givesendgo.com/dde)…                                                           |
+| **Shotcut**                | We’ll be using `Shotcut` for the video editing to add video and/or audio, background/foreground effects…                             |
+| **Stock Video & Audio**    | We already have access to stock footage, audio, etc., to use as needed—sparingly, but strategically.                                  |
+| **Narrators**              | There will be off-screen Narrators 1, 2 & 3 (Anchor, Field Reporter, Witness)… grammar and punctuation should favor AI-friendly reads. |
+| **Scene Expansion**        | As bullets are added, we’ll expand runtime naturally (≈5–6 minutes, or more if needed).                                                |
+| **Corruption Exposed**     | We’ve compiled timelines, docs, photos & videos proving bad-faith rulings… all scenes assume video proof is available.                |
+| **Shotcut Asset Workflow** | We’ll stick to visual cue–based scenes; the existing storyboard format works great for timing, overlays, and insert cuts.            |
+| **Narrator Syncing**       | ElevenLabs tone cues work really well—keep formatting consistent to enhance pacing/intonation.                                        |
+| **On-Screen Witness**      | Treated as a powerful cut-in; we’ll suggest mid-scene placements to elevate impact.                                                   |
+| **Political Sensitivity**  | Focus on **evidence, public record, personal tragedy**—avoid inflammatory phrasing, stay firm on truths.                               |
+| **GiveSendGo Alignment**   | Fundraiser page and video will remain tightly in sync—mirroring tone, structure, and CTAs.                                            |
+| **Key Findings**           | Before rendering in ChatGPT’s UI, review these unique considerations.                                                                 |
 
 ---
 

@@ -50,7 +50,7 @@ I initially created this document to outline how we will handle the `Storyboard 
 
 ---
 
-## 🧭 **DDE GiveSendGo – Rules of Engagement**:
+## **DDE GiveSendGo – Rules of Engagement**:
 
 
 | Area                        | Action                                                                                                                               |

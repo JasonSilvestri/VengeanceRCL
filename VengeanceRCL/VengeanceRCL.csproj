@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk.Razor">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Title>VengeanceRCL by Music Revolution™</Title>
+    <Authors>Jason Silvestri &amp; Scott Hall</Authors>
+    <Company>Music Revolution™</Company>
+    <Description>VengeanceRCL is a Razor Class Library by Music Revolution™ used to store, read, create &amp; modify documents, images, and videos relative to the now famous Scott vs Brockton case.</Description>
+    <Copyright>© 2025 Jason Silvestri, Scott Hall &amp; Music Revolution™</Copyright>
+    <PackageProjectUrl>https://www.givesendgo.com/DDE</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/JasonSilvestri/VengeanceRCL</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageReleaseNotes>VengeanceRCL is a Razor Class Library by Music Revolution™ used to store, read, create &amp; modify documents, images, and videos relative to the now famous Scott vs Brockton case.
+
+This release does not yet have all the raw video content. It is too much content. We will need to add it in chunks.</PackageReleaseNotes>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <SupportedPlatform Include="browser" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="9.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Phones\Jay\202404__\" />
+    <Folder Include="wwwroot\ShotCut\" />
+    <Folder Include="wwwroot\SnashCore\" />
+  </ItemGroup>
+
+</Project>

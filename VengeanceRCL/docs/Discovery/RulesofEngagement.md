@@ -1,0 +1,168 @@
+﻿# GiveSendGo.com/DDE Rules of Engagement Discovery
+
+`GiveSendGo.com/DDE` (_Deaf, Disabled & Elderly_)™ Discovery acts as a basic blueprint for consistent, scalable, and maintainable creation of content and assets.
+
+---
+
+[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Get Latest`](../Official/README.md) · · [`« Previous`](./StoryboardMarkers.md) [`Next »`](./ViralExposeVideoScript.md)
+
+---
+
+## **Discovery Variant:**
+
+> [!CAUTION]
+> You are currently viewing the **"_Discovery_" _Variant_** of this **VengeanceRCL Project** section. This is not typically created, and is only here to reference the original discovery we performed on this specific information, before evolving content in the way we use it today.
+> 
+> Most importantly, this content was draft material at the time of creation, and more than likely to have inconsistency in examples, content format, etc.
+>
+> See, [Get Latest](../Official/RulesofEngagement.md) to visit the `official` latest version of this section.
+
+---
+
+## **Overview**
+
+
+**DDE™ (_Deaf, Disabled & Elderly_)** Discovery acts as a basic (_original_) blueprint for consistent, scalable, and maintainable creation of content and assets, including markdown documents that support most current initiatives with the `DDE`, such as the content, fundraiser and developed promotional video, as outlined in the [Table of Contents](#table-of-contents) section.
+
+---
+
+## Table of Contents
+  - [Discovery Variant:](#discovery-variant)
+  - [Overview](#overview)
+  - [Jason's Original Rules of Engagement](#-jasons-original-rules-of-engagement)
+    - [DDE GiveSendGo – Rules of Engagement:](#-dde-givesendgo--rules-of-engagement)
+  - [Lumina's Original Rules of Engagement](#-luminas-original-rules-of-engagement)
+    - [DDE GiveSendGo – Rules of Engagement:](#-dde-givesendgo--rules-of-engagement)
+
+---
+
+I initially created this document to outline how we will handle the content suggestions from ```<add to storyboard>``` request, and how we will create a consistent, scalable, and maintainable set of assets for the `DDE GiveSendGo` videos, and the rules we should always review before creating new scenes in storyboards, scripts, etc
+
+I started creating a set of `Rules of Engagement` rules in the very beginning. Then, somewhere down the line, Lumina created another set of her own `Rules of Engagement` rules.
+
+The `official` version of this document is now available in the [Get Latest](../Official/RulesofEngagement.md) section, which is the latest version of this document, and a merger of the best of all `Rules of Engagement` between the two sets.
+
+Below are the two original sets for clarity. 
+
+---
+
+## ✅ **Jason's Original Rules of Engagement**
+
+
+### 🧭 **DDE GiveSendGo – Rules of Engagement**:
+
+| Area                       | Action                                                                                                                               |
+|: -------------------------- |: ------------------------------------------------------------------------------------------------------------------------------------ |
+| **All Parts of the Video** | This video should be action packed, with viral, professional copy-writing based content, with the closest resemblance to a real "6:00 o'clock News Alert" like broadcast video as we can.            |
+| **DDE GiveSendGo Fundraiser**       | Any content found at [www.givesendgo.com/dde](https://www.givesendgo.com/dde) was largely created with your help. You may use any content here within video or change any content to fit either outlets (the givesendgo.com page or video). Once all video scripts and story boards are final, we will update the fundraiser to practically mirror the contents of the video (where applicable). |
+| **Shotcut**       | We'll be using `Shotcut` for the video editing to add video and/or audio, background and foreground effects (blur a face or use a green screen), render videos. |
+| **Stock Video & Audio**      | We already have access to assets relative to stock footage, audio, etc., we can use as we need (where applicable). We should try to use such assets sparingly, but we should do whatever it takes to make this video the best it can be. |
+| **Narrators**  | There will be an off screen Narrator 1 (Anchor), Narrator 2 (Field Reporter) & Narrator 3 (In-Person Witness) available for any and all filler content anywhere you see fit. He or she will be the news broadcast person. This "person" may be real or AI generated, so the script words, punctuation, grammar, etc., (I feel) should be geared more towards AIs and how they would prefer to see it and make the audio sound the most authentic. Real people can be tasked with last minute improv if necessary.      |
+| **Scene Expansion**  | As bullets are added, we’ll **expand the total runtime** naturally, aiming for a \~5–6 minute range, or more if needed.              |
+| **Corruption Exposed**  | We’ve compiled timelines, incident reports, documents, photos, and videos proving that the judge and lawyers who ruled against the Halls acted in bad faith. Building a case against them is now possible—and it should be assumed that all content suggested for scenes can be backed by video proof.              |
+
+---
+
+## ✅ **Lumina's Original Rules of Engagement**
+
+
+### 🧭 **DDE GiveSendGo – Rules of Engagement**:
+
+| Area                       | Action                                                                                                                               |
+|: -------------------------- |: ------------------------------------------------------------------------------------------------------------------------------------ |
+| **Shotcut Asset Workflow** | We’ll stick to visual cue-based scenes. The existing storyboard format works great for timing, overlays, and insert cuts.            |
+| **Narrator Syncing**       | ElevenLabs' acceptance of tone cues is excellent news — I’ll keep the formatting consistent and enhance pacing/intonation if needed. |
+| **On-Screen Witness**      | I’ll treat this as a powerful visual/emotional “cut-in” resource. I’ll suggest where it could appear mid-scene to elevate impact.    |
+| **Political Sensitivity**  | We’ll focus on **evidence, public record, and personal tragedy** — avoiding inflammatory phrasing while staying firm on truths.      |
+| **Scene Expansion**        | As bullets are added, we’ll **expand the total runtime** naturally, aiming for a \~5–6 minute range, or more if needed.              |
+| **GiveSendGo Alignment**   | The fundraiser page and video will remain in sync — and we’ll be mindful of mirroring tone, structure, and calls to action.          |
+
+---
+
+
+## **Prerequisites**
+
+Be sure each technology is installed, with proper versioning, if your goal is to install and use the `VengeanceRCL` Project to its fullest potential.
+
+- [Visual Studio (v 17.13.5)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#visual-studio)
+- [.NET Framework (v 9.0.1)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#net-framework)
+- [ASP.NET Core (v 9.0.1)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#aspnet-core)
+- [Node.js (v 20.14.0)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#node)
+- [npm (v 10.8.1)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#npm)
+
+We use `ElevenLabs` Ultra realistic, supports SSML-like input for tone/pauses in the creation of our AI Narrator Scripts.
+ 
+- [ElevenLabs (v 3)](https://www.elevenlabs.io)
+
+We use `Shotcut` as the quick and dirty video editor to create videos, because our current laptops can't handle the more modern editors.
+
+- [Shotcut (v 24.11.01)](https://shotcut.org/download/)
+ 
+[`Back to Top`](#table-of-contents)
+
+---
+
+## Corequisites
+
+This `DDE GiveSendGo AI Narrator Voice Script` is associated to a [`Storyboard Markers`](./docs/Discovery/StoryboardMarkers.md) Lifecycle process.
+
+This means that the following documents are also part of the  [`Storyboard Markers`](./docs/Discovery/StoryboardMarkers.md) Lifecycle process, and should be followed in the order they are listed:
+
+1. [Storyboard Markers](./docs/Discovery/StoryboardMarkers.md)
+2. [Rules of Engagement](./docs/Discovery/RulesofEngagement.md) ---
+
+## **Prerequisites**
+
+Be sure each technology is installed, with proper versioning, if your goal is to install and use the `VengeanceRCL` Project to its fullest potential.
+
+- [Visual Studio (v 17.13.5)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#visual-studio)
+- [.NET Framework (v 9.0.1)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#net-framework)
+- [ASP.NET Core (v 9.0.1)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#aspnet-core)
+- [Node.js (v 20.14.0)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#node)
+- [npm (v 10.8.1)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#npm)
+
+We use `ElevenLabs` Ultra realistic, supports SSML-like input for tone/pauses in the creation of our AI Narrator Scripts.
+ 
+- [ElevenLabs (v 3)](https://www.elevenlabs.io)
+
+We use `Shotcut` as the quick and dirty video editor to create videos, because our current laptops can't handle the more modern editors.
+
+- [Shotcut (v 24.11.01)](https://shotcut.org/download/)
+ 
+[`Back to Top`](#table-of-contents)
+
+---
+
+## Corequisites
+
+This `DDE GiveSendGo AI Narrator Voice Script` is associated to a [`Storyboard Markers`](./docs/Discovery/StoryboardMarkers.md) Lifecycle process.
+
+This means that the following documents are also part of the  [`Storyboard Markers`](./docs/Discovery/StoryboardMarkers.md) Lifecycle process, and should be followed in the order they are listed:
+
+1. [Storyboard Markers](./docs/Discovery/StoryboardMarkers.md)
+2. [Rules of Engagement](./docs/Discovery/RulesofEngagement.md)
+3. [DDE GiveSendGo Viral Exposé Video Script](./docs/Discovery/ViralExposeVideoScript.md)
+4. [DDE GiveSendGo AI Narrator Voice Script](./docs/Discovery/DdeGiveSendGoAiNarratorVoiceScript.md)  ⬅️ You are here!
+5. [DDE GiveSendGo Campaign Sync](./docs/Discovery/DdeGiveSendGoCampaignSync.md)
+
+
+[`Back to Top`](#table-of-contents)
+
+---
+
+3. [DDE GiveSendGo Viral Exposé Video Script](./docs/Discovery/ViralExposeVideoScript.md)
+4. [DDE GiveSendGo AI Narrator Voice Script](./docs/Discovery/DdeGiveSendGoAiNarratorVoiceScript.md)
+5. [DDE GiveSendGo Campaign Sync](./docs/Discovery/DdeGiveSendGoCampaignSync.md)
+
+
+[`Back to Top`](#table-of-contents)
+
+---
+
+[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) · [`Get Latest`](../Official/README.md) · · [`Back to Top`](#table-of-contents) · [`« Previous`](./StoryboardMarkers.md) [`Next »`](./ViralExposeVideoScript.md)
+
+---
+
+##### Follow Campaign: [www.givesendgo.com/dde](https://www.givesendgo.com/dde)
+
+###### Copyright © 2025 - All Rights Reserved by Jason Silvestri & Scott Hall

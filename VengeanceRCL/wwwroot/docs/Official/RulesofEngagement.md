@@ -37,9 +37,11 @@
 I initially created this document to outline how we will handle the `Storyboard Markers` content suggestions we make in requests with the following special wrapper:
 
 ```plaintext 
+
 [add to storyboard]
 ... your bullet content ...
 [/add to storyboard]
+
 ```
 
 When Lumina sees this in a request, we ensure we check the following `Rules of Engagement` rules:
@@ -48,9 +50,10 @@ When Lumina sees this in a request, we ensure we check the following `Rules of E
 
 ## 🧭 **DDE GiveSendGo – Rules of Engagement**:
 
-| Area                       | Action                                                                                                                               |
+
+| Area                        | Action                                                                                                                               |
 |: -------------------------- |: ------------------------------------------------------------------------------------------------------------------------------------ |
-| **All Parts of the Video** | This video should be action packed, with viral, professional copy-writing based content, with the closest resemblance to a real "6:00 o'clock News Alert" like broadcast video as we can.            |
+| **All Parts of the Video** | This video should be action packed, with viral, professional copy-writing based content, with the closest resemblance to a real "6:00 o'clock News Alert" like broadcast video as we can. |
 | **DDE GiveSendGo Fundraiser**       | Any content found at [www.givesendgo.com/dde](https://www.givesendgo.com/dde) was largely created with your help. You may use any content here within video or change any content to fit either outlets (the givesendgo.com page or video). Once all video scripts and story boards are final, we will update the fundraiser to practically mirror the contents of the video (where applicable). |
 | **Shotcut**       | We'll be using `Shotcut` for the video editing to add video and/or audio, background and foreground effects (blur a face or use a green screen), render videos. |
 | **Stock Video & Audio**      | We already have access to assets relative to stock footage, audio, etc., we can use as we need (where applicable). We should try to use such assets sparingly, but we should do whatever it takes to make this video the best it can be. |

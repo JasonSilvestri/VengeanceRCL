@@ -76,15 +76,9 @@ Due to Jason's dinosaur laptop, we use `Shotcut` as the quick and dirty video ed
 
 ## **Getting Started**
 
-Follow these steps to get started with the `VengeanceRCL` Project. 
+Follow these steps to get started with the `VengeanceRCL` Project: 
 
-This guide will walk you through the process of setting up the `VengeanceRCL` Razor Class Library, including cloning the repository, opening the solution in Visual Studio, configuring the project, and running it.
-
-- **[Get Started](#step-1-clone-the-repository)** → with **Step 1: Clone the Repository** users.  
-
----
-
-## **Step 1: Clone the Repository**
+### **Step 1: Clone the Repository**
 
 _Clone_ the `VengeanceRCL` GitHub Repository if you plan to explore it independently from the rest of the projects.
 
@@ -96,7 +90,7 @@ Choose the approach below that fits your environment:
 
 ---
 
-### **Option 1: Using `Bash`:**
+#### **Option 1: Using `Bash`:**
  
 ```bash
 
@@ -114,7 +108,7 @@ Choose the approach below that fits your environment:
 
 ---
 
-### **Option 2: Using `Powershell`:**
+#### **Option 2: Using `Powershell`:**
 
 ```powershell
 
@@ -132,7 +126,7 @@ Choose the approach below that fits your environment:
 
 ---
 
-### **Option 3: Using `Node.js` or `npm` (degit):**
+#### **Option 3: Using `Node.js` or `npm` (degit):**
  
 ```shell
 
@@ -149,7 +143,7 @@ Choose the approach below that fits your environment:
 
 ---
 
-## **Step 2: Open the Solution**
+### **Step 2: Open the Solution**
 
 Working with the `VengeanceRCL` Project in Visual Studio is simple enough.
 
@@ -160,7 +154,7 @@ Working with the `VengeanceRCL` Project in Visual Studio is simple enough.
 
 ---
 
-## **Step 3: Configure the Project**
+### **Step 3: Configure the Project**
 
 > [!TIP]
 >
@@ -169,7 +163,7 @@ Working with the `VengeanceRCL` Project in Visual Studio is simple enough.
 
 ---
 
-### **Option: 3.1: Verify Nuget Packages:**
+#### **Option: 3.1: Verify Nuget Packages:**
 
 Verify that all NuGet packages are up to date:
 
@@ -181,11 +175,11 @@ Verify that all NuGet packages are up to date:
 
 ---
 
-## **Step 4: Be Sure to Build and Run**
+### **Step 4: Be Sure to Build and Run**
 
 Building and Running the `VengeanceRCL` Project in Visual Studio is also another simple task.
 
-### **Step: 4.1: Build and Run**:
+#### **Step: 4.1: Build and Run**:
 
 1. Build the solution in [Visual Studio](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/OpenProjects/VengeanceRCL/p1/v1/Technologies/#visual-studio).
 2. Run the project:
@@ -197,7 +191,7 @@ There are other profiles available, but the **IIS Express** profile is the most 
 
 ---
 
-### **Step: 4.2: And Now Your Done**:
+#### **Step: 4.2: And Now Your Done**:
 
 Assuming the `VengeanceRCL` Project is running as expected, **you are now done** with the **installation** and **execution** of the project!
 
@@ -210,13 +204,13 @@ Assuming the `VengeanceRCL` Project is running as expected, **you are now done**
 
 ---
 
-## **Step 5: Project File Structure**
+### **Step 5: Project File Structure**
 
 Here’s the `Project File Structure` for the `VengeanceRCL` Razor Class Library in both the _plaintext-tree_ and _styled-table_ formats.
 
 ---
 
-### **Step: 5.1: Structured File Tree**:
+#### **Step: 5.1: Structured File Tree**:
 
 See the structured file tree below for a quick overview of the `VengeanceRCL` Project, using the _plaintext-tree_ format:
 
@@ -261,55 +255,55 @@ VengeanceRCL/
 
 ---
 
-### **Step: 5.2: Structured Table**:
+#### **Step: 5.2: Structured Table**:
 
 See the structured file tree below for a quick overview of the `VengeanceRCL` Project, using the _styled-table_ format:
 
-| **File/Directory**                                                                                             | **Description**                                                         |
-|:---------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|
-| &nbsp;📁&nbsp;**VengeanceRCL/**                                                                                 | Root folder containing the solution                                     |
-| &nbsp;&nbsp;&nbsp;├&nbsp;📝&nbsp;`VengeanceRCL.sln`                                                              | Solution file linking projects                                          |
-| &nbsp;&nbsp;&nbsp;└📁&nbsp;**VengeanceRCL/**&nbsp;                                                                     | Subfolder for the Razor Class Library project                           |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├&nbsp;📝&nbsp;`VengeanceRCL.csproj`&nbsp;                                          | Project file for the Razor Class Library                                |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└📁&nbsp;**wwwroot/**&nbsp;                                                        | Static web assets and documentation                                     |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📂&nbsp;**docs/**&nbsp;                                          | Documentation directory                                                 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📂&nbsp;**Discovery/**&nbsp;                     | Discovery-phase documentation and scripts for the DDE GiveSendGo campaign |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`DdeGiveSendGoAiVoices.md`&nbsp;   | AI-driven narrator voice script for storytelling in the fundraiser video. |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`DdeGiveSendGoCampaignSync.md`&nbsp;          | Synchronization plan and timeline for campaign assets and releases.      |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`DdeGiveSendGoLegal.md`&nbsp;                   | Legal guidelines and compliance information for the campaign.            |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`DeepDiscovery.md`&nbsp;                        | In-depth discovery-phase research findings and audience insights.        |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`EditingVideoswithShotcut.md`&nbsp;             | Step-by-step guide for editing campaign videos using Shotcut.            |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;**`README.md`**&nbsp;                            | Overview of the Discovery folder’s contents and purpose.                |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`RulesofEngagement.md`&nbsp;                   | Team collaboration and content-production guidelines.                   |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`StoryboardMarkers.md`&nbsp;                   | Annotation guide for storyboard markers in the editing workflow.       |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└📝&nbsp;`ViralExposeVideoScript.md`&nbsp;              | Script for the viral exposé-style video segment.                        |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└📂&nbsp;**Official/**&nbsp;                             | Official reference documents for the DDE GiveSendGo campaign.          |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`DdeGiveSendGoAiVoices.md`&nbsp;   | Official AI narrator voice script for the campaign.                     |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`DdeGiveSendGoCampaignSync.md`&nbsp;          | Official campaign synchronization strategy and schedule.                |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`DdeGiveSendGoLegal.md`&nbsp;                   | Official legal documentation and compliance requirements.               |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`DeepDiscovery.md`&nbsp;                        | Official deep-dive discovery report for stakeholders.                  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`EditingVideoswithShotcut.md`&nbsp;             | Official workflow and best practices for video editing with Shotcut.    |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`README.md`&nbsp;                            | Overview of the Official folder’s reference materials.                 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`RulesofEngagement.md`&nbsp;                   | Official rules of engagement and content usage policies.               |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📝&nbsp;`StoryboardMarkers.md`&nbsp;                   | Official storyboard marker reference guide.                            |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└📝&nbsp;`ViralExposeVideoScript.md`&nbsp;              | Official script for the viral exposé segment.                          |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📂&nbsp;**artwork/**&nbsp;                                  | Design assets such as logos and artwork.                                |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├📂&nbsp;**Audio Assets/**&nbsp;                           | Audio files for narration and music.                                    |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└📂&nbsp;**images/**&nbsp;                                | Image assets for documentation and splash screens.                     |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└🖼️&nbsp;`musician-revolution-splash.png`&nbsp;         | Project splash image used in the README.                                |
+| **File/Directory**                                                      | **Description**                                                         |
+|:------------------------------------------------------------------------|:------------------------------------------------------------------------|
+| &nbsp;📁 `VengeanceRCL/`                                                | Root folder containing the solution                                      |
+| &nbsp;&nbsp;&nbsp;├ 📝 `VengeanceRCL.sln`                                | Solution file linking projects                                           |
+| &nbsp;&nbsp;&nbsp;└ 📁 `VengeanceRCL/`                                   | Subfolder for the Razor Class Library project                            |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ 📝 `VengeanceRCL.csproj`           | Project file for the Razor Class Library                                 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ 📁 `wwwroot/`                      | Static web assets and documentation                                      |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ 📁 `docs/`         | Documentation directory                                                  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ 📁 `Discovery/` | Discovery-phase docs and scripts for the DDE GiveSendGo campaign         |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ 📝 `DdeGiveSendGoAiVoices.md`          | AI-driven narrator voice script for storytelling in the fundraiser video. |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ 📝 `DdeGiveSendGoCampaignSync.md`       | Synchronization plan and timeline for campaign assets and releases.       |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ 📝 `DdeGiveSendGoLegal.md`              | Legal guidelines and compliance information for the campaign.             |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ 📝 `DeepDiscovery.md`                 | In-depth discovery-phase research findings and audience insights.         |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ 📝 `EditingVideoswithShotcut.md`      | Step-by-step guide for editing campaign videos using Shotcut.             |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ 📝 `README.md`                        | Overview of the Discovery folder’s contents and purpose.                  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ 📝 `RulesofEngagement.md`            | Team collaboration and content-production guidelines.                     |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ 📝 `StoryboardMarkers.md`            | Annotation guide for storyboard markers in the editing workflow.          |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ 📝 `ViralExposeVideoScript.md`       | Script for the viral exposé-style video segment.                          |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ 📁 `Official/`      | Official reference docs for the DDE GiveSendGo campaign                  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ 📝 `DdeGiveSendGoAiVoices.md`          | Official AI narrator voice script for the campaign.                       |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ 📝 `DdeGiveSendGoCampaignSync.md`       | Official campaign synchronization strategy and schedule.                  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ 📝 `DdeGiveSendGoLegal.md`              | Official legal documentation and compliance requirements.                 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ 📝 `DeepDiscovery.md`                 | Official deep-dive discovery report for stakeholders.                     |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ 📝 `EditingVideoswithShotcut.md`      | Official workflow and best practices for video editing with Shotcut.      |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ 📝 `README.md`                        | Overview of the Official folder’s reference materials.                     |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ 📝 `RulesofEngagement.md`            | Official rules of engagement and content usage policies.                  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ 📝 `StoryboardMarkers.md`            | Official storyboard marker reference guide.                               |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ 📝 `ViralExposeVideoScript.md`       | Official script for the viral exposé segment.                             |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ 📁 `artwork/`         | Design assets such as logos and artwork.                                   |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ 📁 `Audio Assets/`    | Audio files for narration and music.                                       |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ 📁 `images/`          | Image assets for documentation and splash screens.                          |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ 🖼️ `musician-revolution-splash.png` | Project splash image used in the README.                                  |
 
 
 [`Back to Top`](#table-of-contents)
 
 ---
 
-## **Step 6: Usage**
+### **Step 6: Usage**
 
 The `VengeanceRCL` project is designed as a self-contained media project that we will be using as the official temporary project until we create an official Musician Revolution repository. 
 
 ---
 
-### **Step 6.1: Adding the `VengeanceRCL` Razor Class Library to Other Projects**
+#### **Step 6.1: Adding the `VengeanceRCL` Razor Class Library to Other Projects**
 
 1. **Add Project Reference**:
    - Open your solution in Visual Studio.
@@ -328,8 +322,8 @@ if **you did everything right**, you should now have a fully functional `Vengean
 
 With that said, the `VengeanceRCL` Razor Class Library is a _Razor Class Library_, is made up of two primary variants of content. 
 
-1. **[Latest (Recommended)](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Official/README.md)** → Ideal for exploring the absolute latest versions of documents, processeses and/or design patterns we use today in relation to the variant content. It is **NOT** uncommon to have more content, final proofs, etc. in the latest version of the project for here.
-2. **[Discovery](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Discovery/README.md)** → Best for looking into some of the historical research, resources, and other sources we pull together while brainstorming or prototyping content. It is **NOT** uncommon to find redundant content, errors, draft content, and/or other obvious considerations.  
+1. **[Latest (Recommended)](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Official/README.md)** → **Ideal for exploring the absolute latest** versions of documents, processeses and/or design patterns we use today in relation to the variant content. It is **NOT** uncommon to have more content, final proofs, etc. in the latest version of the project for here.
+2. **[Discovery](https://github.com/JasonSilvestri/VengeanceRCL/tree/master/VengeanceRCL/wwwroot/docs/Discovery/README.md)** → **Best for looking into some of the historical** research, resources, and other sources we pull together while brainstorming or prototyping content. It is **NOT** uncommon to find redundant content, errors, draft content, and/or other obvious considerations.  
 
 ---
 

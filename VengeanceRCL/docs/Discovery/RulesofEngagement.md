@@ -4,7 +4,7 @@
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Get Latest`](../Official/README.md) · · [`« Previous`](./StoryboardMarkers.md) [`Next »`](./ViralExposeVideoScript.md)
+[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Get Latest`](../../Official/README.md) · · [`« Previous`](./StoryboardMarkers.md) [`Next »`](./ViralExposeVideoScript.md)
 
 ---
 
@@ -15,7 +15,7 @@
 > 
 > Most importantly, this content was draft material at the time of creation, and more than likely to have inconsistency in examples, content format, etc.
 >
-> See, [Get Latest](../Official/RulesofEngagement.md) to visit the `official` latest version of this section.
+> See, [Get Latest](../../Official/RulesofEngagement.md) to visit the `official` latest version of this section.
 
 ---
 
@@ -40,7 +40,7 @@ I initially created this document to outline how we will handle the content sugg
 
 I started creating a set of `Rules of Engagement` rules in the very beginning. Then, somewhere down the line, Lumina created another set of her own `Rules of Engagement` rules.
 
-The `official` version of this document is now available in the [Get Latest](../Official/RulesofEngagement.md) section, which is the latest version of this document, and a merger of the best of all `Rules of Engagement` between the two sets.
+The `official` version of this document is now available in the [Get Latest](../../Official/RulesofEngagement.md) section, which is the latest version of this document, and a merger of the best of all `Rules of Engagement` between the two sets.
 
 Below are the two original sets for clarity. 
 
@@ -84,7 +84,7 @@ Below are the two original sets for clarity.
 
 Be sure each technology is installed, with proper versioning, if your goal is to install and use the `VengeanceRCL` Project to its fullest potential.
 
-- [Visual Studio (v 17.13.5)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#visual-studio)
+- [Visual Studio (v 17.14.7)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#visual-studio)
 - [.NET Framework (v 9.0.1)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#net-framework)
 - [ASP.NET Core (v 9.0.1)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#aspnet-core)
 - [Node.js (v 20.14.0)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#node)
@@ -104,18 +104,20 @@ We use `Shotcut` as the quick and dirty video editor to create videos, because o
 
 ## Corequisites
 
-This `DDE GiveSendGo AI Narrator Voice Script` is associated to a [`Storyboard Markers`](./docs/Discovery/StoryboardMarkers.md) Lifecycle process.
+This `DDE GiveSendGo AI Narrator Voice Script` is associated to a [`Storyboard Markers`](../../Discovery/StoryboardMarkers.md) Lifecycle process.
 
-This means that the following documents are also part of the  [`Storyboard Markers`](./docs/Discovery/StoryboardMarkers.md) Lifecycle process, and should be followed in the order they are listed:
+This means that the following documents are also part of the  [`Storyboard Markers`](../../Discovery/StoryboardMarkers.md) Lifecycle process, and should be followed in the order they are listed:
 
-1. [Storyboard Markers](./docs/Discovery/StoryboardMarkers.md)
-2. [Rules of Engagement](./docs/Discovery/RulesofEngagement.md) ---
+1. [Storyboard Markers](../../Discovery/StoryboardMarkers.md)
+2. [Rules of Engagement](../../Discovery/RulesofEngagement.md) 
+ 
+---
 
 ## **Prerequisites**
 
 Be sure each technology is installed, with proper versioning, if your goal is to install and use the `VengeanceRCL` Project to its fullest potential.
 
-- [Visual Studio (v 17.13.5)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#visual-studio)
+- [Visual Studio (v 17.14.7)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#visual-studio)
 - [.NET Framework (v 9.0.1)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#net-framework)
 - [ASP.NET Core (v 9.0.1)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#aspnet-core)
 - [Node.js (v 20.14.0)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#node)
@@ -135,31 +137,31 @@ We use `Shotcut` as the quick and dirty video editor to create videos, because o
 
 ## Corequisites
 
-This `DDE GiveSendGo AI Narrator Voice Script` is associated to a [`Storyboard Markers`](./docs/Discovery/StoryboardMarkers.md) Lifecycle process.
+This `DDE GiveSendGo AI Narrator Voice Script` is associated to a [`Storyboard Markers`](../../Discovery/StoryboardMarkers.md) Lifecycle process.
 
-This means that the following documents are also part of the  [`Storyboard Markers`](./docs/Discovery/StoryboardMarkers.md) Lifecycle process, and should be followed in the order they are listed:
+This means that the following documents are also part of the  [`Storyboard Markers`](../../Discovery/StoryboardMarkers.md) Lifecycle process, and should be followed in the order they are listed:
 
-1. [Storyboard Markers](./docs/Discovery/StoryboardMarkers.md)
-2. [Rules of Engagement](./docs/Discovery/RulesofEngagement.md)
-3. [DDE GiveSendGo Viral Exposé Video Script](./docs/Discovery/ViralExposeVideoScript.md)
-4. [DDE GiveSendGo AI Narrator Voice Script](./docs/Discovery/DdeGiveSendGoAiNarratorVoiceScript.md)  ⬅️ You are here!
-5. [DDE GiveSendGo Campaign Sync](./docs/Discovery/DdeGiveSendGoCampaignSync.md)
-
-
-[`Back to Top`](#table-of-contents)
-
----
-
-3. [DDE GiveSendGo Viral Exposé Video Script](./docs/Discovery/ViralExposeVideoScript.md)
-4. [DDE GiveSendGo AI Narrator Voice Script](./docs/Discovery/DdeGiveSendGoAiNarratorVoiceScript.md)
-5. [DDE GiveSendGo Campaign Sync](./docs/Discovery/DdeGiveSendGoCampaignSync.md)
+1. [Storyboard Markers](../../Discovery/StoryboardMarkers.md)
+2. [Rules of Engagement](../../Discovery/RulesofEngagement.md)
+3. [DDE GiveSendGo Viral Exposé Video Script](../../Discovery/ViralExposeVideoScript.md)
+4. [DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md)  ⬅️ You are here!
+5. [DDE GiveSendGo Campaign Sync](../../Discovery/DdeGiveSendGoCampaignSync.md)
 
 
 [`Back to Top`](#table-of-contents)
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) · [`Get Latest`](../Official/README.md) · · [`Back to Top`](#table-of-contents) · [`« Previous`](./StoryboardMarkers.md) [`Next »`](./ViralExposeVideoScript.md)
+3. [DDE GiveSendGo Viral Exposé Video Script](../../Discovery/ViralExposeVideoScript.md)
+4. [DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md)
+5. [DDE GiveSendGo Campaign Sync](../../Discovery/DdeGiveSendGoCampaignSync.md)
+
+
+[`Back to Top`](#table-of-contents)
+
+---
+
+[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) · [`Get Latest`](../../Official/README.md) · · [`Back to Top`](#table-of-contents) · [`« Previous`](./StoryboardMarkers.md) [`Next »`](./ViralExposeVideoScript.md)
 
 ---
 

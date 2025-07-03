@@ -1,10 +1,18 @@
-﻿# GiveSendGo.com/DDE Discovery
+﻿# GiveSendGo.com/DDE Official
 
 `GiveSendGo.com/DDE` (_Deaf, Disabled & Elderly_)™ Discovery acts as a basic blueprint for consistent, scalable, and maintainable creation of content and assets.
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Get Original Discovery »`](../Discovery/README.md)
+### `VengeanceRCL`: Brought to You by Musician Revolutuion
+
+The `VengeanceRCL` Razor Class Library is brought you by **Musician Revolutuion**.
+
+![Musician Revolutuion](https://github.com/JasonSilvestri/VengeanceRCL/blob/master/VengeanceRCL/wwwroot/images/music-revolution-splash.png)
+
+---
+
+[`Home`](../../README.md) » [`Introduction`](./ReadMe.md) · · [`Get Original Discovery »`](../../Discovery/README.md) 
 
 ---
 
@@ -13,7 +21,7 @@
 > [!CAUTION]
 > You are currently viewing the **"_Official_" _Variant_** of this **VengeanceRCL Project** section.  It should have the most up-to-date content available since its discovery.
 >
-> See, [Original Discovery](../Discovery/README.md) to visit the `discovery` version of this section.
+> See, [Original Discovery](../../Discovery/README.md) to visit the `discovery` version of this section.
 
 ---
 
@@ -27,18 +35,18 @@
 ### Table of Contents
 
 - [Overview](#overview)
-- [1. Storyboard Markers](./docs/Discovery/StoryboardMarkers.md)
-- [2. Rules of Engagement](./docs/Discovery/RulesofEngagement.md)
-- [3. Deep Discovery](./docs/Discovery/DeepDiscovery.md)
-- [4. Viral Exposé Video Script](./docs/Discovery/ViralExposeVideoScript.md)
-- [5. Editing Videos with Shotcut](./docs/Discovery/EditingVideoswithShotcut.md)
-- [6. DDE AI Narrator Voice Script](./docs/Discovery/DdeGiveSendGoAiNarratorVoiceScript.md)
-- [7. DDE Campaign](./docs/Discovery/DdeGiveSendGoCampaignSync.md)
-- [8. DDE Legal](./docs/Discovery/DdeGiveSendGoLegal.md)
+- [1. Storyboard Markers](../../Official/StoryboardMarkers.md)
+- [2. Rules of Engagement](../../Official/RulesofEngagement.md)
+- [3. Deep Discovery](../../Official/DeepDiscovery.md)
+- [4. Viral Exposé Video Script](../../Official/ViralExposeVideoScript.md)
+- [5. Editing Videos with Shotcut](../../Official/EditingVideoswithShotcut.md)
+- [6. DDE AI Narrator Voice Script](../../Official/DdeGiveSendGoAiNarratorVoiceScript.md)
+- [7. DDE Campaign](../../Official/DdeGiveSendGoCampaignSync.md)
+- [8. DDE Legal](../../Official/DdeGiveSendGoLegal.md)
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) · · [`Back to Top`](#table-of-contents) · [`Get Original Discovery »`](../Discovery/README.md) 
+[`Home`](../../README.md) » [`Introduction`](./ReadMe.md) · · [`Back to Top`](#table-of-contents) · [`Get Original Discovery »`](../../Discovery/README.md) 
 
 ---
 

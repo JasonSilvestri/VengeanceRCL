@@ -1,10 +1,10 @@
-﻿# GiveSendGo.com/DDE Discovery
+﻿# GiveSendGo.com/DDE Official
 
 `GiveSendGo.com/DDE` (_Deaf, Disabled & Elderly_)™ Discovery acts as a basic blueprint for consistent, scalable, and maintainable creation of content and assets.
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Get Original Discovery »`](../Discovery/README.md)
+[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Get Original Discovery »`](../../Discovery/README.md)
 
 ---
 
@@ -13,7 +13,7 @@
 > [!CAUTION]
 > You are currently viewing the **"_Official_" _Variant_** of this **VengeanceRCL Project** section.  It should have the most up-to-date content available since its discovery.
 >
-> See, [Original Discovery](../Discovery/RulesofEngagement.md) to visit the `discovery` version of this section.
+> See, [Original Discovery](../../Discovery/RulesofEngagement.md) to visit the `discovery` version of this section.
 
 ---
 
@@ -194,7 +194,7 @@ git config --global http.postBuffer 524288000
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) · · [`Back to Top`](#table-of-contents) · [`Get Original Discovery »`](../Discovery/README.md) 
+[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) · · [`Back to Top`](#table-of-contents) · [`Get Original Discovery »`](../../Discovery/README.md) 
 
 ---
 

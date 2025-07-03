@@ -1,11 +1,11 @@
-﻿# GiveSendGo.com/DDE Storyboard Markers Discovery
+﻿# GiveSendGo.com/DDE Storyboard Markers Official
 
 
  The `Storyboard Markers` Discovery acts as a basic (_original_) blueprint for the architecure of how we will create a storyboard, handle scenes, etc.
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Official`](./ReadMe.md) · · [`Original Discovery »`](../Discovery/StoryboardMarkers.md) 
+[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Official`](./ReadMe.md) · · [`Original Discovery »`](../../Discovery/StoryboardMarkers.md) 
 
 ---
 
@@ -14,7 +14,7 @@
 > [!CAUTION]
 > You are currently viewing the **"_Official_" _Variant_** of this **VengeanceRCL Project** section.  It should have the most up-to-date content available since its discovery.
 >
-> See, [Original Discovery](../Discovery/StoryboardMarkers.md) to visit the `discovery` version of this section.
+> See, [Original Discovery](../../Discovery/StoryboardMarkers.md) to visit the `discovery` version of this section.
 
 ---
 
@@ -28,14 +28,14 @@
 ### Table of Contents
 
 - [Overview](#overview)
-- [1. Storyboard Markers](./docs/Discovery/StoryboardMarkers.md)
-- [2. Rules of Engagement](./docs/Discovery/RulesofEngagement.md)
-- [3. Deep Discovery](./docs/Discovery/DeepDiscovery.md)
-- [4. Viral Exposé Video Script](./docs/Discovery/ViralExposeVideoScript.md)
-- [5. Editing Videos with Shotcut](./docs/Discovery/EditingVideoswithShotcut.md)
-- [6. DDE GiveSendGo AI Narrator Voice Script](./docs/Discovery/DdeGiveSendGoAiNarratorVoiceScript.md)
-- [7. DDE GiveSendGo Campaign Sync](./docs/Discovery/DdeGiveSendGoCampaignSync.md)
-- [8. DDE GiveSendGo Legal](./docs/Discovery/DdeGiveSendGoLegal.md)
+- [1. Storyboard Markers](../../Discovery/StoryboardMarkers.md)
+- [2. Rules of Engagement](../../Discovery/RulesofEngagement.md)
+- [3. Deep Discovery](../../Discovery/DeepDiscovery.md)
+- [4. Viral Exposé Video Script](../../Discovery/ViralExposeVideoScript.md)
+- [5. Editing Videos with Shotcut](../../Discovery/EditingVideoswithShotcut.md)
+- [6. DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md)
+- [7. DDE GiveSendGo Campaign Sync](../../Discovery/DdeGiveSendGoCampaignSync.md)
+- [8. DDE GiveSendGo Legal](../../Discovery/DdeGiveSendGoLegal.md)
 
 ---
 
@@ -105,7 +105,7 @@ We can have Lumina generate *SSML* or *JSON* versions for APIs or batch uploads.
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Official`](./ReadMe.md) · · [`Back to Top`](#table-of-contents) · [`Original Discovery »`](../Discovery/StoryboardMarkers.md) 
+[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Official`](./ReadMe.md) · · [`Back to Top`](#table-of-contents) · [`Original Discovery »`](../../Discovery/StoryboardMarkers.md) 
 
 ---
 

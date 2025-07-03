@@ -1,15 +1,14 @@
-﻿# GiveSendGo.com/DDE Discovery
+﻿# GiveSendGo.com/DDE VengeanceRCL
 
-`GiveSendGo.com/DDE` (_Deaf, Disabled & Elderly_)™ Discovery acts as a basic blueprint for consistent, scalable, and maintainable creation of content and assets.
+`GiveSendGo.com/DDE` (_Deaf, Disabled & Elderly_)™ VengeanceRCL (_Razor Class Library_) acts as a basic blueprint for consistent, scalable, and maintainable creation of content and assets.
 
 ---
 
-## **Discovery Variant:**
+### `VengeanceRCL`: Brought to You by Musician Revolutuion
 
-> [!TIP]
-> You are currently viewing the **"_Discovery_" _Variant_** of the **VengeanceRCL Project**. This is not typically created, and is only here to reference the original discovery we performed on this specific information, before evolving content in the way we use it today.
-> 
-> For the latest details, see [Get Latest](#getting-started) _below_.
+The `VengeanceRCL` Razor Class Library is brought you by **Musician Revolutuion**.
+
+![Musician Revolutuion](https://github.com/JasonSilvestri/VengeanceRCL/blob/master/VengeanceRCL/wwwroot/images/music-revolution-splash.png)
 
 ---
 
@@ -35,19 +34,9 @@ $ git clone https://github.com/JasonSilvestri/VengeanceRCL.git
       - [Step 3: Configure the Project](#step-3-configure-the-project)
       - [Step 4: Build and Run](#step-4-be-sure-to-build-and-run)
       - [Step 5: Project File Structure](#step-5-project-file-structure)
-      - [Step 6: Project References & Dependencies](#step-6-jsopx-project-references--dependencies)
-      - [Step 7: Usage](#step-7-usage)
-      - [Step 8: Extended Usage](#step-8-extended-usage)
+      - [Step 6: Usage](#step-6-usage)
+      - [Step 7: Extended Usage](#step-7-extended-usage)
   - [Next Steps](#next-steps)
-
----
-
-## Current Phase
-
-> [!NOTE]
->
->**Phases 1**: This document is currently aligned with [Phase 1: Minimum Viable Product (MVP)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Phases/Phase-1.md) Business Requirements. 
-> 
 
 ---
 
@@ -59,43 +48,38 @@ $ git clone https://github.com/JasonSilvestri/VengeanceRCL.git
 
 ## **Prerequisites**
 
-Be sure each technology is installed, with proper versioning, if your goal is to continue exploring and/or installing just the `VengeanceRCL` Project.
+Before you can get started with the `VengeanceRCL` Project, you need to ensure you have the following prerequisites installed and configured on your system:
 
-- [Visual Studio (v 17.13.5)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#visual-studio)
+---
+
+### **Core Technologies**:
+
+These technologies are essential for the development and execution of the `VengeanceRCL` Project. They provide the necessary frameworks, libraries, and tools to build and run the project effectively.
+
+- [Visual Studio (v 17.14.7)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#visual-studio)
 - [.NET Framework (v 9.0.1)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#net-framework)
 - [ASP.NET Core (v 9.0.1)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#aspnet-core)
 - [Node.js (v 20.14.0)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#node)
 - [npm (v 10.8.1)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#npm)
-- [Vue (v 3.4.21)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#vue)
-- [Vite (v 5.2.8)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#vite)
-
 
 ---
 
-## Corequisites
+### **Extended Use of AI**:
 
-These resources served as the primary references during the development of the applications and related content. I followed them closely throughout, but I recommend revisiting them periodically—especially if you need clarity on any implementation decisions. 
-
-- [Development Standards](../../../../Introduction/JSopxDevelopmentStandards.md)
-- [Business Requirements](../../../../Introduction/JSopxEnterpriseBusinessRequirements.md)
-
----
-
-## Business Concerns Addressed
-
-The **DDE™ GiveSendGo Project** addresses **several** high-level **business concerns**, not only shown through design patterns and best practices within its own DDE™ Project ecosystem, but ultimately as it evolves into a valuable project component of the Jason Silvestri Open Project EXperiences (DDE™) Enterprise Application too. 
-
-[`Back to Top`](#table-of-contents) · · [`Next »`](#1-simulating-an-existing-project)
+We use `ElevenLabs` Ultra realistic, supports SSML-like input for tone/pauses in the creation of our AI Narrator Scripts.
+ 
+- [ElevenLabs (v 3)](https://www.elevenlabs.io)
 
 ---
 
-## **`VengeanceRCL` Project: Brought to you by Music Revolutuion**:
+### **Video Editing**:
 
-We initially create the **DDE™ GiveSendGo Project** to help fight the good fight, but it is quickly turning into a place to Snash. 
+Due to Jason's dinosaur laptop, we use `Shotcut` as the quick and dirty video editor to create videos. Our current laptops can't handle the more modern editors with advanced graphics card requirements.
 
-![Music Revolutuion](https://github.com/JasonSilvestri/VengeanceRCL/blob/master/VengeanceRCL/wwwroot/images/music-revolution-splash.png)
+- [Shotcut (v 24.11.01)](https://shotcut.org/download/)
 
-[`Back to Top`](#table-of-contents) · · [`« Previous`](#business-concerns-addressed) [`Next »`](#getting-started)
+
+[`Back to Top`](#table-of-contents)
 
 ---
 
@@ -172,7 +156,7 @@ Choose the approach below that fits your environment:
 
 Working with the `VengeanceRCL` Project in Visual Studio is simple enough.
 
-1. Launch **[Visual Studio (v 17.13.5)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#visual-studio)**.
+1. Launch **[Visual Studio (v 17.14.7)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#visual-studio)**.
 2. Open the solution file: `VengeanceRCL.sln`.
 
 [`Back to Top`](#table-of-contents)
@@ -272,9 +256,17 @@ Although the `VengeanceRCL` project is primarily designed as a self-contained de
 
 ---
 
+## Next Steps:
 
+1. **Drop this script** into ElevenLabs, Murf, or any AI voice generator.
+2. For best results:
 
-[`Home`](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/OpenProjects/VengeanceRCL/README.md) » [`Introduction`](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Introduction/) » [`Projects`](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/OpenProjects/) · · **`Use Latest`** · [`By-Phase`](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/OpenProjects/VengeanceRCL/p1/v1/README.md) · [`From Scratch`](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/OpenProjects/VengeanceRCL/p1/v1/RECREATEME.md) · · [`Back to Top`](#table-of-contents) · [`« Previous`](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/OpenProjects/jsopx.ReactCore/) [`Next »`](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/OpenProjects/jsopx.BlazorServerCore/)
+   * Select an emotionally responsive voice (avoid robotic or “promo” tones).
+   * Paste each scene block separately for better tone control.
+   * Use “intonation preview” if available to test how each line sounds.
+3. In **Shotcut**, you can now overlay this narration on your scene sequence.
+
+[`Back to Top`](#table-of-contents)
 
 ---
 

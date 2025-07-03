@@ -1,11 +1,11 @@
-﻿# DDE™ GiveSendGo AI Narrator Voice Script - Discovery
+﻿# DDE™ GiveSendGo AI Narrator Voice Script - Official
 
 
  `DDE™ Viral Exposé AI Narrators Script` is the latest acts as a basic (_latest_) blueprint for the architecure of how we will create DDE™ Adapt Viral Exposé Video Script AI Narrator voice overs from storyboards.
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Official`](./ReadMe.md) · · [`Original Discovery »`](../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md) 
+[`Home`](../../README.md) » [`Official`](./ReadMe.md) · · [`Original Discovery »`](../../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md) 
 
 ---
 
@@ -14,7 +14,7 @@
 > [!CAUTION]
 > You are currently viewing the **"_Official_" _Variant_** of this **VengeanceRCL Project** section.  It should have the most up-to-date content available since its discovery.
 >
-> See, [Original Discovery](../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md) to visit the `discovery` version of this section.
+> See, [Original Discovery](../../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md) to visit the `discovery` version of this section.
 
 ---
 
@@ -50,16 +50,13 @@ Below is the most recent `DDE GiveSendGo AI Narrator Voice Script` for the video
 
 [`Back to Top`](#table-of-contents)
 
-
----
-
 ---
 
 ## **Prerequisites**
 
 Be sure each technology is installed, with proper versioning, if your goal is to install and use the `VengeanceRCL` Project to its fullest potential.
 
-- [Visual Studio (v 17.13.5)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#visual-studio)
+- [Visual Studio (v 17.14.7)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#visual-studio)
 - [.NET Framework (v 9.0.1)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#net-framework)
 - [ASP.NET Core (v 9.0.1)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#aspnet-core)
 - [Node.js (v 20.14.0)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#node)
@@ -79,15 +76,15 @@ We use `Shotcut` as the quick and dirty video editor to create videos, because o
 
 ## Corequisites
 
-This `DDE GiveSendGo AI Narrator Voice Script` is associated to a [`Storyboard Markers`](./docs/Discovery/StoryboardMarkers.md) Lifecycle process.
+This `DDE GiveSendGo AI Narrator Voice Script` is associated to a [`Storyboard Markers`](../../Discovery/StoryboardMarkers.md) Lifecycle process.
 
-This means that the following documents are also part of the  [`Storyboard Markers`](./docs/Discovery/StoryboardMarkers.md) Lifecycle process, and should be followed in the order they are listed:
+This means that the following documents are also part of the  [`Storyboard Markers`](../../Discovery/StoryboardMarkers.md) Lifecycle process, and should be followed in the order they are listed:
 
-1. [Storyboard Markers](./docs/Discovery/StoryboardMarkers.md)
-2. [Rules of Engagement](./docs/Discovery/RulesofEngagement.md)
-3. [DDE GiveSendGo Viral Exposé Video Script](./docs/Discovery/ViralExposeVideoScript.md)
-4. [DDE GiveSendGo AI Narrator Voice Script](./docs/Discovery/DdeGiveSendGoAiNarratorVoiceScript.md) ⬅️ You are here!
-5. [DDE GiveSendGo Campaign Sync](./docs/Discovery/DdeGiveSendGoCampaignSync.md)
+1. [Storyboard Markers](../../Discovery/StoryboardMarkers.md)
+2. [Rules of Engagement](../../Discovery/RulesofEngagement.md)
+3. [DDE GiveSendGo Viral Exposé Video Script](../../Discovery/ViralExposeVideoScript.md)
+4. [DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md) ⬅️ You are here!
+5. [DDE GiveSendGo Campaign Sync](../../Discovery/DdeGiveSendGoCampaignSync.md)
 
 
 [`Back to Top`](#table-of-contents)
@@ -1129,11 +1126,11 @@ I caught some issues when testing what **worked best previously** in ElevenLabs:
    * Paste each scene block separately for better tone control.
    * Use “intonation preview” if available to test how each line sounds.
 3. In **Shotcut**, you can now overlay this narration on your scene sequence.
-4. Convert each scene into a `1:1` scene for [`DDE GiveSendGo – AI Narrator Voice Script`](./docs/Official/DdeGiveSendGoAiNarratorVoiceScript.md) scene voiceovers.
+4. Convert each scene into a `1:1` scene for [`DDE GiveSendGo – AI Narrator Voice Script`](../../Official/DdeGiveSendGoAiNarratorVoiceScript.md) scene voiceovers.
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Official`](./ReadMe.md) · · [`Back to Top`](#table-of-contents) · [`Original Discovery »`](../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md) 
+[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Official`](./ReadMe.md) · · [`Back to Top`](#table-of-contents) · [`Original Discovery »`](../../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md) 
 
 ---
 

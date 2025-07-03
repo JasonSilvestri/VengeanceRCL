@@ -5,7 +5,7 @@
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Discovery`](./ReadMe.md) · · [`Get Latest »`](../Official/StoryboardMarkers.md) · · [`Back to Top`](#table-of-contents) · [`« Previous`](./StoryboardMarkers.md) [`Next »`](./RulesofEngagement.md)
+[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Discovery`](./ReadMe.md) · · [`Get Latest »`](../../Official/StoryboardMarkers.md) · · [`Back to Top`](#table-of-contents) · [`« Previous`](./StoryboardMarkers.md) [`Next »`](./RulesofEngagement.md)
 
 ---
 
@@ -16,7 +16,7 @@
 > 
 > Most importantly, this content was draft material at the time of creation, and more than likely to have inconsistency in examples, content format, etc.
 >
-> See, [Get Latest](../Official/StoryboardMarkers.md) to visit the `official` latest version of this section.
+> See, [Get Latest](../../Official/StoryboardMarkers.md) to visit the `official` latest version of this section.
 
 ---
 
@@ -30,14 +30,14 @@
 ### Table of Contents
 
 - [Overview](#overview)
-- [1. Storyboard Markers](./docs/Discovery/StoryboardMarkers.md)
-- [2. Rules of Engagement](./docs/Discovery/RulesofEngagement.md)
-- [3. Deep Discovery](./docs/Discovery/DeepDiscovery.md)
-- [4. Viral Exposé Video Script](./docs/Discovery/ViralExposeVideoScript.md)
-- [5. Editing Videos with Shotcut](./docs/Discovery/EditingVideoswithShotcut.md)
-- [6. DDE GiveSendGo AI Narrator Voice Script](./docs/Discovery/DdeGiveSendGoAiNarratorVoiceScript.md)
-- [7. DDE GiveSendGo Campaign Sync](./docs/Discovery/DdeGiveSendGoCampaignSync.md)
-- [8. DDE GiveSendGo Legal](./docs/Discovery/DdeGiveSendGoLegal.md)
+- [1. Storyboard Markers](../../Discovery/StoryboardMarkers.md)
+- [2. Rules of Engagement](../../Discovery/RulesofEngagement.md)
+- [3. Deep Discovery](../../Discovery/DeepDiscovery.md)
+- [4. Viral Exposé Video Script](../../Discovery/ViralExposeVideoScript.md)
+- [5. Editing Videos with Shotcut](../../Discovery/EditingVideoswithShotcut.md)
+- [6. DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md)
+- [7. DDE GiveSendGo Campaign Sync](../../Discovery/DdeGiveSendGoCampaignSync.md)
+- [8. DDE GiveSendGo Legal](../../Discovery/DdeGiveSendGoLegal.md)
 
 ---
 
@@ -46,7 +46,7 @@
 
 Be sure each technology is installed, with proper versioning, if your goal is to install and use the `VengeanceRCL` Project to its fullest potential.
 
-- [Visual Studio (v 17.13.5)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#visual-studio)
+- [Visual Studio (v 17.14.7)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#visual-studio)
 - [.NET Framework (v 9.0.1)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#net-framework)
 - [ASP.NET Core (v 9.0.1)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#aspnet-core)
 - [Node.js (v 20.14.0)](https://github.com/JasonSilvestri/JSopX.BridgeTooFar/tree/master/JSopX.BridgeTooFar/DocsOpenX/Technologies/#node)
@@ -66,15 +66,15 @@ We use `Shotcut` as the quick and dirty video editor to create videos, because o
 
 ## Corequisites
 
-This `DDE GiveSendGo AI Narrator Voice Script` is associated to a [`Storyboard Markers`](./docs/Discovery/StoryboardMarkers.md) Lifecycle process.
+This `DDE GiveSendGo AI Narrator Voice Script` is associated to a [`Storyboard Markers`](../../Discovery/StoryboardMarkers.md) Lifecycle process.
 
-This means that the following documents are also part of the  [`Storyboard Markers`](./docs/Discovery/StoryboardMarkers.md) Lifecycle process, and should be followed in the order they are listed:
+This means that the following documents are also part of the  [`Storyboard Markers`](../../Discovery/StoryboardMarkers.md) Lifecycle process, and should be followed in the order they are listed:
 
-1. [Storyboard Markers](./docs/Discovery/StoryboardMarkers.md)  ⬅️ You are here!
-2. [Rules of Engagement](./docs/Discovery/RulesofEngagement.md)
-3. [DDE GiveSendGo Viral Exposé Video Script](./docs/Discovery/ViralExposeVideoScript.md) 
-4. [DDE GiveSendGo AI Narrator Voice Script](./docs/Discovery/DdeGiveSendGoAiNarratorVoiceScript.md)
-5. [DDE GiveSendGo Campaign Sync](./docs/Discovery/DdeGiveSendGoCampaignSync.md)
+1. [Storyboard Markers](../../Discovery/StoryboardMarkers.md)  ⬅️ You are here!
+2. [Rules of Engagement](../../Discovery/RulesofEngagement.md)
+3. [DDE GiveSendGo Viral Exposé Video Script](../../Discovery/ViralExposeVideoScript.md) 
+4. [DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiNarratorVoiceScript.md)
+5. [DDE GiveSendGo Campaign Sync](../../Discovery/DdeGiveSendGoCampaignSync.md)
 
 
 [`Back to Top`](#table-of-contents)
@@ -149,7 +149,7 @@ We can have Lumina generate *SSML* or *JSON* versions for APIs or batch uploads.
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Discovery`](./ReadMe.md) · · [`Get Latest »`](../Official/StoryboardMarkers.md) · · [`Back to Top`](#table-of-contents) · [`« Previous`](./StoryboardMarkers.md) [`Next »`](./RulesofEngagement.md)
+[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Discovery`](./ReadMe.md) · · [`Get Latest »`](../../Official/StoryboardMarkers.md) · · [`Back to Top`](#table-of-contents) · [`« Previous`](./StoryboardMarkers.md) [`Next »`](./RulesofEngagement.md)
 
 ---
 

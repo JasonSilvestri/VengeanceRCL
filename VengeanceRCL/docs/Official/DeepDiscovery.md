@@ -1,11 +1,11 @@
-﻿# GiveSendGo.com/DDE Viral Exposé Video Script Discovery
+﻿# GiveSendGo.com/DDE Viral Exposé Video Script Official
 
 
  `DDE™ Viral Exposé Video Script` Discovery acts as a basic (_original_) blueprint for the architecure of how we will create a storyboard, handle scenes, etc.
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Official`](./ReadMe.md) · · [`Original Discovery »`](../Discovery/README.md) 
+[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Official`](./ReadMe.md) · · [`Original Discovery »`](../../Discovery/README.md) 
 
 ---
 
@@ -14,7 +14,7 @@
 > [!CAUTION]
 > You are currently viewing the **"_Official_" _Variant_** of this **VengeanceRCL Project** section.  It should have the most up-to-date content available since its discovery.
 >
-> See, [Original Discovery](../Discovery/DeepDiscovery.md) to visit the `discovery` version of this section.
+> See, [Original Discovery](../../Discovery/DeepDiscovery.md) to visit the `discovery` version of this section.
 
 ---
 
@@ -443,7 +443,7 @@ You can also include `Narrator 3` later if the witness appears — we’ll treat
    * Paste each scene block separately for better tone control.
    * Use “intonation preview” if available to test how each line sounds.
 3. In **Shotcut**, you can now overlay this narration on your scene sequence.
-4. Convert each scene into a `1:1` scene for [`DDE GiveSendGo – AI Narrator Voice Script`](./docs/Official/DdeGiveSendGoAiNarratorVoiceScript.md) scene voiceovers.
+4. Convert each scene into a `1:1` scene for [`DDE GiveSendGo – AI Narrator Voice Script`](../../Official/DdeGiveSendGoAiNarratorVoiceScript.md) scene voiceovers.
 
 
 [`Back to Top`](#table-of-contents)
@@ -460,7 +460,7 @@ I caught some issues when testing what **worked best previously** in ElevenLabs:
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Official`](./ReadMe.md) · · [`Back to Top`](#table-of-contents) · [`Original Discovery »`](../Discovery/DeepDiscovery.md) 
+[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Official`](./ReadMe.md) · · [`Back to Top`](#table-of-contents) · [`Original Discovery »`](../../Discovery/DeepDiscovery.md) 
 
 ---
 

@@ -42,7 +42,7 @@ The `VengeanceRCL` Razor Class Library is brought you by **Musician Revolutuion*
 - [5. Editing Videos with Shotcut](./EditingVideoswithShotcut.md)
 - [6. DDE AI Narrator Voice Script](./DdeGiveSendGoAiVoices.md)
 - [7. DDE Campaign](./DdeGiveSendGoCampaignSync.md)
-- [8. DDE Legal](./DdeGiveSendGoLegal.md)
+- [8. DDE Legal](./Legal/README.md)
 
 ---
 

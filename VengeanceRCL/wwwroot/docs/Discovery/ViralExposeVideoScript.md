@@ -4,7 +4,7 @@
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](./README.md) » [`Discovery`](./README.md) · · [`Get Latest »`](../../Official/ViralExposeVideoScript.md) · · [`« Previous`](./RulesofEngagement.md) [`Next »`](./DdeGiveSendGoAiVoices.md)
+[`Home`](../../../../../README.md) » [`Introduction`](./README.md) » [`Discovery`](./README.md) · · [`Get Latest »`](../../Official/ViralExposeVideoScript.md) · · [`« Previous`](./RulesofEngagement.md) [`Next »`](./DdeGiveSendGoAiVoices.md)
 
 ---
 
@@ -2834,7 +2834,7 @@ There are likely many more effective tags beyond this list. Experiment with desc
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](./README.md) » [`Discovery`](./README.md) · [`Get Latest »`](../../Official/ViralExposeVideoScript.md) · · [`Back to Top`](#table-of-contents) · [`« Previous`](./RulesofEngagement.md) [`Next »`](./DdeGiveSendGoAiVoices.md)
+[`Home`](../../../../../README.md) » [`Introduction`](./README.md) » [`Discovery`](./README.md) · [`Get Latest »`](../../Official/ViralExposeVideoScript.md) · · [`Back to Top`](#table-of-contents) · [`« Previous`](./RulesofEngagement.md) [`Next »`](./DdeGiveSendGoAiVoices.md)
 
 ---
 

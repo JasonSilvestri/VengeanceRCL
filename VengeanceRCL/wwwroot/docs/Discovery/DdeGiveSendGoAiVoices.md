@@ -6,7 +6,7 @@ Our `DDE™ GiveSendGo Campaign Sync` Discovery acts as a basic (_original_) blu
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](./README.md) » [`Discovery`](./README.md) · · [`Get Latest`](../../Official/DdeGiveSendGoAiVoices.md)  · · [`« Previous`](./ViralExposeVideoScript.md) [`Next »`](./DdeGiveSendGoCampaignSync.md)
+[`Home`](../../../../../README.md) » [`Introduction`](./README.md) » [`Discovery`](./README.md) · · [`Get Latest`](../../Official/DdeGiveSendGoAiVoices.md)  · · [`« Previous`](./ViralExposeVideoScript.md) [`Next »`](./DdeGiveSendGoCampaignSync.md)
 
 ---
 
@@ -1168,7 +1168,7 @@ I caught some issues when testing what **worked best previously** in ElevenLabs:
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](./README.md) » [`Discovery`](./README.md) · · [`Get Latest`](../../Official/DdeGiveSendGoAiVoices.md) · [`Back to Top`](#table-of-contents) · [`« Previous`](./ViralExposeVideoScript.md) [`Next »`](./DdeGiveSendGoCampaignSync.md)
+[`Home`](../../../../../README.md) » [`Introduction`](./README.md) » [`Discovery`](./README.md) · · [`Get Latest`](../../Official/DdeGiveSendGoAiVoices.md) · [`Back to Top`](#table-of-contents) · [`« Previous`](./ViralExposeVideoScript.md) [`Next »`](./DdeGiveSendGoCampaignSync.md)
 
 ---
 

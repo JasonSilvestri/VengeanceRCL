@@ -5,7 +5,7 @@
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](./README.md) » [`Discovery`](./README.md) · · [`Get Latest »`](../../Official/StoryboardMarkers.md) · · [`Back to Top`](#table-of-contents) · [`« Previous`](./StoryboardMarkers.md) [`Next »`](./RulesofEngagement.md)
+[`Home`](../../../../../README.md) » [`Introduction`](./README.md) » [`Discovery`](./README.md) · · [`Get Latest »`](../../Official/StoryboardMarkers.md) · · [`Back to Top`](#table-of-contents) · [`« Previous`](./StoryboardMarkers.md) [`Next »`](./RulesofEngagement.md)
 
 ---
 
@@ -149,7 +149,7 @@ We can have Lumina generate *SSML* or *JSON* versions for APIs or batch uploads.
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](./README.md) » [`Discovery`](./README.md) · · [`Get Latest »`](../../Official/StoryboardMarkers.md) · · [`Back to Top`](#table-of-contents) · [`« Previous`](./StoryboardMarkers.md) [`Next »`](./RulesofEngagement.md)
+[`Home`](../../../../../README.md) » [`Introduction`](./README.md) » [`Discovery`](./README.md) · · [`Get Latest »`](../../Official/StoryboardMarkers.md) · · [`Back to Top`](#table-of-contents) · [`« Previous`](./StoryboardMarkers.md) [`Next »`](./RulesofEngagement.md)
 
 ---
 

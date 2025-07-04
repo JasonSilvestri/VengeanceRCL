@@ -4,7 +4,7 @@
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](./README.md) » [`Get Latest`](../../Official/README.md) · · [`« Previous`](./DdeGiveSendGoCampaignSync.md) [`Next »`](./DeepDiscovery.md)
+[`Home`](../../../../../README.md) » [`Introduction`](./README.md) » [`Get Latest`](../../Official/README.md) · · [`« Previous`](./DdeGiveSendGoCampaignSync.md) [`Next »`](./DeepDiscovery.md)
 
 ---
 
@@ -80,7 +80,7 @@ This means that the following documents are also part of the  [`Storyboard Marke
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](./README.md) » [`Get Latest`](../../Official/DdeGiveSendGoCampaignSync.md) · · [`Back to Top`](#table-of-contents) · · [`« Previous`](./DdeGiveSendGoCampaignSync.md) [`Next »`](./DeepDiscovery.md)
+[`Home`](../../../../../README.md) » [`Introduction`](./README.md) » [`Get Latest`](../../Official/DdeGiveSendGoCampaignSync.md) · · [`Back to Top`](#table-of-contents) · · [`« Previous`](./DdeGiveSendGoCampaignSync.md) [`Next »`](./DeepDiscovery.md)
 
 ---
 

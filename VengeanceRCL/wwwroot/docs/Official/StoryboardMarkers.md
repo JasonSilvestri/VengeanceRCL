@@ -5,7 +5,7 @@
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Official`](./ReadMe.md) · · [`Original Discovery »`](../../Discovery/StoryboardMarkers.md) 
+[`Home`](../../README.md) » [`Introduction`](../README.md) » [`Official`](./README.md) · · [`Original Discovery »`](../../Discovery/StoryboardMarkers.md) 
 
 ---
 
@@ -105,7 +105,7 @@ We can have Lumina generate *SSML* or *JSON* versions for APIs or batch uploads.
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Official`](./ReadMe.md) · · [`Back to Top`](#table-of-contents) · [`Original Discovery »`](../../Discovery/StoryboardMarkers.md) 
+[`Home`](../../README.md) » [`Introduction`](../README.md) » [`Official`](./README.md) · · [`Back to Top`](#table-of-contents) · [`Original Discovery »`](../../Discovery/StoryboardMarkers.md) 
 
 ---
 

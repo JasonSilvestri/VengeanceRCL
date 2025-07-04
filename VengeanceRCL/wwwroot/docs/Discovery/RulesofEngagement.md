@@ -4,7 +4,7 @@
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Get Latest`](../../Official/README.md) · · [`« Previous`](./StoryboardMarkers.md) [`Next »`](./ViralExposeVideoScript.md)
+[`Home`](../../README.md) » [`Introduction`](../README.md) » [`Get Latest`](../../Official/README.md) · · [`« Previous`](./StoryboardMarkers.md) [`Next »`](./ViralExposeVideoScript.md)
 
 ---
 
@@ -161,7 +161,7 @@ This means that the following documents are also part of the  [`Storyboard Marke
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) · [`Get Latest`](../../Official/README.md) · · [`Back to Top`](#table-of-contents) · [`« Previous`](./StoryboardMarkers.md) [`Next »`](./ViralExposeVideoScript.md)
+[`Home`](../../README.md) » [`Introduction`](../README.md) · [`Get Latest`](../../Official/README.md) · · [`Back to Top`](#table-of-contents) · [`« Previous`](./StoryboardMarkers.md) [`Next »`](./ViralExposeVideoScript.md)
 
 ---
 

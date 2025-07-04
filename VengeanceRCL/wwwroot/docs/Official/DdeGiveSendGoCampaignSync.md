@@ -3,7 +3,7 @@
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) » [`Get Original Discovery »`](../../Discovery/README.md)
+[`Home`](../../README.md) » [`Introduction`](../README.md) » [`Get Original Discovery »`](../../Discovery/README.md)
 
 ---
 
@@ -37,7 +37,7 @@
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../ReadMe.md) · · [`Back to Top`](#table-of-contents) · [`Get Original Discovery »`](../../Discovery/README.md) 
+[`Home`](../../README.md) » [`Introduction`](../README.md) · · [`Back to Top`](#table-of-contents) · [`Get Original Discovery »`](../../Discovery/README.md) 
 
 ---
 

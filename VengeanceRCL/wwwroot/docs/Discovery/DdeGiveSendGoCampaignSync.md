@@ -10,7 +10,7 @@ Our `DDE™ Official GiveSendGo.com/DDE Fundraiser` Discovery acts as a basic bl
 
 ---
 
-## **Discovery Variant:**
+### **Discovery Variant:**
 
 > [!CAUTION]
 > You are currently viewing the **"_Discovery_" _Variant_** of this **VengeanceRCL Project** section. This is not typically created, and is only here to reference the original discovery we performed on this specific information, before evolving content in the way we use it today.

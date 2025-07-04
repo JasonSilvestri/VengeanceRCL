@@ -16,7 +16,7 @@ The `VengeanceRCL` Razor Class Library is brought you by **Musician Revolutuion*
 
 ---
 
-## **Official Variant:**
+### **Official Variant:**
 
 > [!TIP]
 > You are currently viewing the **"_Official_" _Variant_** of this **VengeanceRCL Project** section.  It should have the most up-to-date content available since its discovery.

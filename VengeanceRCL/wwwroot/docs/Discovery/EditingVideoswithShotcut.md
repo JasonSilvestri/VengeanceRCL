@@ -6,7 +6,7 @@ Our `DDE™ Official GiveSendGo.com/DDE Fundraiser Video Editor` Discovery acts 
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../README.md) » [`Get Latest`](../../Official/EditingVideoswithShotcut.md) · · [`« Previous`](./DdeGiveSendGoAiVoices.md) [`Next »`](./DeepDiscovery.md)
+[`Home`](../../README.md) » [`Introduction`](./README.md) » [`Get Latest`](../../Official/EditingVideoswithShotcut.md) · · [`« Previous`](./DdeGiveSendGoAiVoices.md) [`Next »`](./DeepDiscovery.md)
 
 ---
 
@@ -713,7 +713,7 @@ Want me to walk you through this live with a mock project? Or help prep a reusab
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../README.md) » [`Get Latest`](../../Official/EditingVideoswithShotcut.md) ·· [`Back to Top`](#table-of-contents) · [`« Previous`](./DdeGiveSendGoAiVoices.md) [`Next »`](./DeepDiscovery.md)
+[`Home`](../../README.md) » [`Introduction`](./README.md) » [`Get Latest`](../../Official/EditingVideoswithShotcut.md) ·· [`Back to Top`](#table-of-contents) · [`« Previous`](./DdeGiveSendGoAiVoices.md) [`Next »`](./DeepDiscovery.md)
 
 ---
 

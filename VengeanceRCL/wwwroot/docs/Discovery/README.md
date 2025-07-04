@@ -82,7 +82,7 @@ Due to Jason's dinosaur laptop, we use `Shotcut` as the quick and dirty video ed
 
 ---
 
-[`Home`](./../../../README.md) » [`Introduction`](../README.md) · · [`Back to Top`](#table-of-contents) · [`Get Latest »`](../Official/README.md) 
+[`Home`](./../../../README.md) » [`Introduction`](./README.md) · · [`Back to Top`](#table-of-contents) · [`Get Latest »`](../Official/README.md) 
 
 ---
 

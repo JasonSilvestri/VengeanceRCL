@@ -4,7 +4,7 @@
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../README.md) » [`Get Original Discovery »`](../../Discovery/README.md)
+[`Home`](../../README.md) » [`Introduction`](./README.md) » [`Get Original Discovery »`](../../Discovery/README.md)
 
 ---
 
@@ -196,7 +196,7 @@ git config --global http.postBuffer 524288000
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../README.md) · · [`Back to Top`](#table-of-contents) · [`Get Original Discovery »`](../../Discovery/README.md) 
+[`Home`](../../README.md) » [`Introduction`](./README.md) · · [`Back to Top`](#table-of-contents) · [`Get Original Discovery »`](../../Discovery/README.md) 
 
 ---
 

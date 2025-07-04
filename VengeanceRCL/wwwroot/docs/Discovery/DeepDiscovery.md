@@ -6,7 +6,7 @@
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../README.md) » [`Discovery`](./README.md) · · [`Get Latest »`](../../Official/README.md) 
+[`Home`](../../README.md) » [`Introduction`](./README.md) » [`Discovery`](./README.md) · · [`Get Latest »`](../../Official/README.md) 
 
 ---
 
@@ -178,7 +178,7 @@ Below was the original script for the video that was created to promote the `DDE
 
 ---
 
-[`Home`](../../README.md) » [`Introduction`](../README.md) » [`Discovery`](./README.md) » [`Get Latest`](../../Official/DeepDiscovery.md) · [`Back to Top`](#table-of-contents) · [`« Previous`](./EditingVideoswithShotcut.md) [`Next »`](./README.md)
+[`Home`](../../README.md) » [`Introduction`](./README.md) » [`Discovery`](./README.md) » [`Get Latest`](../../Official/DeepDiscovery.md) · [`Back to Top`](#table-of-contents) · [`« Previous`](./EditingVideoswithShotcut.md) [`Next »`](./README.md)
 
 ---
 

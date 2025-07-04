@@ -6,7 +6,7 @@ Our `DDE™ Official GiveSendGo.com/DDE Fundraiser` Discovery acts as a basic bl
 
 ---
 
-[`Home`](../../../../../README.md) » [`Introduction`](./README.md) » [`Get Latest`](../../Official/DdeGiveSendGoCampaignSync.md) · · [`« Previous`](./DdeGiveSendGoAiVoices.md) [`Next »`](./EditingVideoswithShotcut.md)
+[`Home`](../../../../README.md) » [`Discovery`](./README.md) » [`Get Latest`](../../Official/DdeGiveSendGoCampaignSync.md) · · [`« Previous`](./DdeGiveSendGoAiVoices.md) [`Next »`](./EditingVideoswithShotcut.md)
 
 ---
 
@@ -222,7 +222,7 @@ A lot has happened since the last court appearances on Wednesday, May 7, 2025. B
 
 ---
 
-[`Home`](../../../../../README.md) » [`Introduction`](./README.md) » [`Get Latest »`](../../Official/DdeGiveSendGoCampaignSync.md) · · [`Back to Top`](#table-of-contents) · [`« Previous`](./DdeGiveSendGoAiVoices.md) [`Next »`](./EditingVideoswithShotcut.md)
+[`Home`](../../../../README.md) » [`Introduction`](./README.md) » [`Get Latest »`](../../Official/DdeGiveSendGoCampaignSync.md) · · [`Back to Top`](#table-of-contents) · [`« Previous`](./DdeGiveSendGoAiVoices.md) [`Next »`](./EditingVideoswithShotcut.md)
 
 ---
 

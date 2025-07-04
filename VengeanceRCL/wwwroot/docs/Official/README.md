@@ -12,7 +12,7 @@ The `VengeanceRCL` Razor Class Library is brought you by **Musician Revolutuion*
 
 ---
 
-[`Home`](./../../../README.md) » [`Introduction`](./README.md) · · [`Get Original Discovery »`](../Discovery/README.md) 
+[`Home`](../../../../README.md) » [`Introduction`](./README.md) · · [`Get Original Discovery »`](../Discovery/README.md) 
 
 ---
 
@@ -46,7 +46,7 @@ The `VengeanceRCL` Razor Class Library is brought you by **Musician Revolutuion*
 
 ---
 
-[`Home`](./../../../README.md) » [`Introduction`](./README.md) · · [`Back to Top`](#table-of-contents) · [`Get Original Discovery »`](../Discovery/README.md) 
+[`Home`](../../../../README.md) » [`Introduction`](./README.md) · · [`Back to Top`](#table-of-contents) · [`Get Original Discovery »`](../Discovery/README.md) 
 
 ---
 

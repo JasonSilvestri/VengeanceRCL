@@ -4,7 +4,7 @@
 
 ---
 
-[`Home`](../../../../../../README.md) » [`Discovery`](../README.md) » [`Legal`](./README.md) · · [`Get Latest Official »`](../../Official/README.md) 
+[`Home`](../../../../../README.md) » [`Discovery`](../README.md) » [`Legal`](./README.md) · · [`Get Latest Official »`](../../Official/README.md) 
 
 ---
 
@@ -86,7 +86,7 @@ Here are the current mailing addresses for each department, so Scott can serve o
 
 ---
 
-[`Home`](../../../../../../README.md) » [`Discovery`](../README.md) » [`Legal`](./README.md) · · [`Back to Top`](#table-of-contents) · [`Get Latest »`](../../Official/README.md) 
+[`Home`](../../../../../README.md) » [`Discovery`](../README.md) » [`Legal`](./README.md) · · [`Back to Top`](#table-of-contents) · [`Get Latest »`](../../Official/README.md) 
 
 ---
 

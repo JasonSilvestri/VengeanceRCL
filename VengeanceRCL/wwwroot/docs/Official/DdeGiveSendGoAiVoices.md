@@ -5,7 +5,7 @@
 
 ---
 
-[`Home`](../../../../../README.md) » [`Official`](./README.md) · · [`Original Discovery »`](../../Discovery/DdeGiveSendGoAiVoices.md) 
+[`Home`](../../../../README.md) » [`Official`](./README.md) · · [`Original Discovery »`](../../Discovery/DdeGiveSendGoAiVoices.md) 
 
 ---
 
@@ -1130,7 +1130,7 @@ I caught some issues when testing what **worked best previously** in ElevenLabs:
 
 ---
 
-[`Home`](../../../../../README.md) » [`Introduction`](./README.md) » [`Official`](./README.md) · · [`Back to Top`](#table-of-contents) · [`Original Discovery »`](../../Discovery/DdeGiveSendGoAiVoices.md) 
+[`Home`](../../../../README.md) » [`Introduction`](./README.md) » [`Official`](./README.md) · · [`Back to Top`](#table-of-contents) · [`Original Discovery »`](../../Discovery/DdeGiveSendGoAiVoices.md) 
 
 ---
 

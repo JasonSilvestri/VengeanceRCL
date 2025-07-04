@@ -5,7 +5,7 @@
 
 ---
 
-[`Home`](../../../../../README.md) » [`Introduction`](./README.md) » [`Official`](./README.md) · · [`Original Discovery »`](../../Discovery/ViralExposeVideoScript.md) 
+[`Home`](../../../../README.md) » [`Introduction`](./README.md) » [`Official`](./README.md) · · [`Original Discovery »`](../../Discovery/ViralExposeVideoScript.md) 
 
 ---
 
@@ -486,7 +486,7 @@ I caught some issues when testing what **worked best previously** in ElevenLabs:
 
 ---
 
-[`Home`](../../../../../README.md) » [`Introduction`](./README.md) » [`Official`](./README.md) · · [`Back to Top`](#table-of-contents) · [`Original Discovery »`](../../Discovery/ViralExposeVideoScript.md) 
+[`Home`](../../../../README.md) » [`Introduction`](./README.md) » [`Official`](./README.md) · · [`Back to Top`](#table-of-contents) · [`Original Discovery »`](../../Discovery/ViralExposeVideoScript.md) 
 
 ---
 

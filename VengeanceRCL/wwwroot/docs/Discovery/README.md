@@ -12,7 +12,7 @@ The `VengeanceRCL` Razor Class Library is brought you by **Musician Revolutuion*
 
 ---
 
-[`Home`](./../../../README.md) » [`Introduction`](./README.md) · · [`Get Latest Official »`](../Official/README.md) 
+[`Home`](../../../../README.md) » [`Introduction`](./README.md) · · [`Get Latest Official »`](../Official/README.md) 
 
 ---
 
@@ -79,10 +79,12 @@ Due to Jason's dinosaur laptop, we use `Shotcut` as the quick and dirty video ed
 - [4. Viral Exposé Video Script](./ViralExposeVideoScript.md)
 - [5. Editing Videos with Shotcut](./EditingVideoswithShotcut.md)
 - [6. DDE AI Narrator Voice Script](./DdeGiveSendGoAiVoices.md)
+- [7. DDE Campaign](./DdeGiveSendGoCampaignSync.md)
+- [8. DDE Legal](./Legal/README.md)
 
 ---
 
-[`Home`](./../../../README.md) » [`Introduction`](./README.md) · · [`Back to Top`](#table-of-contents) · [`Get Latest »`](../Official/README.md) 
+[`Home`](../../../../README.md) » [`Introduction`](./README.md) · · [`Back to Top`](#table-of-contents) · [`Get Latest »`](../Official/README.md) 
 
 ---
 

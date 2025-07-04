@@ -12,7 +12,7 @@ The `VengeanceRCL` Razor Class Library is brought you by **Musician Revolutuion*
 
 ---
 
-[`Home`](../../../../README.md) » [`Introduction`](./ReadMe.md) · · [`Get Latest Official »`](../../../../Official/README.md) 
+[`Home`](./../../../README.md) » [`Introduction`](./ReadMe.md) · · [`Get Latest Official »`](./../../../Official/README.md) 
 
 ---
 
@@ -23,7 +23,7 @@ The `VengeanceRCL` Razor Class Library is brought you by **Musician Revolutuion*
 > 
 > Most importantly, this content was draft material at the time of creation, and more than likely to have inconsistency in examples, content format, etc.
 >
-> See, [Get Latest](../../../../Official/README.md) to visit the `official` latest version of this section.
+> See, [Get Latest](./../../../Official/README.md) to visit the `official` latest version of this section.
 
 ---
 
@@ -73,16 +73,16 @@ Due to Jason's dinosaur laptop, we use `Shotcut` as the quick and dirty video ed
 ### Table of Contents: Key `Discovery` Resources
 
 - [Overview](#overview)
-- [1. Storyboard Markers](../../../../Discovery/StoryboardMarkers.md)
-- [2. Rules of Engagement](../../../../Discovery/RulesofEngagement.md)
-- [3. Deep Discovery](../../../../Discovery/DeepDiscovery.md)
-- [4. Viral Exposé Video Script](../../../../Discovery/ViralExposeVideoScript.md)
-- [5. Editing Videos with Shotcut](../../../../Discovery/EditingVideoswithShotcut.md)
-- [6. DDE AI Narrator Voice Script](../../../../Discovery/DdeGiveSendGoAiVoices.md)
+- [1. Storyboard Markers](./../../../Discovery/StoryboardMarkers.md)
+- [2. Rules of Engagement](./../../../Discovery/RulesofEngagement.md)
+- [3. Deep Discovery](./../../../Discovery/DeepDiscovery.md)
+- [4. Viral Exposé Video Script](./../../../Discovery/ViralExposeVideoScript.md)
+- [5. Editing Videos with Shotcut](./../../../Discovery/EditingVideoswithShotcut.md)
+- [6. DDE AI Narrator Voice Script](./../../../Discovery/DdeGiveSendGoAiVoices.md)
 
 ---
 
-[`Home`](../../../../README.md) » [`Introduction`](../ReadMe.md) · · [`Back to Top`](#table-of-contents) · [`Get Latest »`](../../../../Official/README.md) 
+[`Home`](./../../../README.md) » [`Introduction`](../ReadMe.md) · · [`Back to Top`](#table-of-contents) · [`Get Latest »`](./../../../Official/README.md) 
 
 ---
 

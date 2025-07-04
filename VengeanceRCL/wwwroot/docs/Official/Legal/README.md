@@ -1,14 +1,6 @@
-﻿# DDE GiveSendGo VengeanceRCL Legal Official
+﻿# DDE GiveSendGo VengeanceRCL Legal Mailing Addresses to ALL Departments Official
 
-`GiveSendGo.com/DDE` (_Deaf, Disabled & Elderly_)™ `Legal` **Official** Discovery acts as a basic blueprint for consistent, scalable, and maintainable creation of content and assets.
-
----
-
-### `VengeanceRCL`: Brought to You by Musician Revolutuion
-
-The `VengeanceRCL` Razor Class Library is brought you by **Musician Revolutuion**.
-
-![Musician Revolutuion](https://github.com/JasonSilvestri/VengeanceRCL/blob/master/VengeanceRCL/wwwroot/images/musician-revolution-splash.png)
+`GiveSendGo.com/DDE` (_Deaf, Disabled & Elderly_)™ `Legal` **Official** on the mailing addresses for all departments we need to send affidavits.
 
 ---
 
@@ -18,17 +10,19 @@ The `VengeanceRCL` Razor Class Library is brought you by **Musician Revolutuion*
 
 ## **Official Variant:**
 
-> [!CAUTION]
+> [!TIP]
 > You are currently viewing the **"_Official_" _Variant_** of this **VengeanceRCL Project** section.  It should have the most up-to-date content available since its discovery.
 >
 > See, [Original Discovery](../../Discovery/README.md) to visit the `discovery` version of this section.
 
 ---
 
+
 ## **Overview**
 
+**DDE™ (_Deaf, Disabled & Elderly_)** `GiveSendGo.com/DDE` `Legal` **Official** on the mailing addresses for all departments we need to send affidavits, as outlined in the [Table of Contents](#table-of-contents) section.
 
-**DDE™ (_Deaf, Disabled & Elderly_)** Discovery acts as a basic (_original_) blueprint for consistent, scalable, and maintainable creation of content and assets, including markdown documents that support most current initiatives with the `DDE`, such as the content, fundraiser and developed promotional video, as outlined in the [Table of Contents](#table-of-contents) section.
+[`Back to Top`](#table-of-contents)
 
 ---
 
@@ -74,13 +68,6 @@ Here are the current mailing addresses for each department, so Scott can serve o
 
 ---
 
-## Corequisites
-
-Below is a `Service & Possession Rights Addendum` to be appended to each of the affidavits above. Simply insert this immediately before the signature block in each:
-
-
----
-
 ### Table of Contents
 
 - [Overview](#overview)
@@ -93,6 +80,8 @@ Below is a `Service & Possession Rights Addendum` to be appended to each of the 
 - [5. Affidavit – Massachusetts Housing Court (Brockton Session)](./AffidavitBrocktonMassHousingCourtDept.md)
 - [6. Affidavit – Office of the Mayor of Brockton](./AffidavitOfficeMayorBrocktonDept.md)
 - [7. Affidavit – United States Bankruptcy Court (District of Massachusetts)](./AffidavitUSBankruptcyCourt.md)
+- [8. Service & Possession Rights Addendum](./ServicePossessionAddendum.md)
+- [9. Mailing Addresses for All Depts](./MailingAddressesAllDepts.md)
 
 ---
 

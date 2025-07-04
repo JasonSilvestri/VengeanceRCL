@@ -9,7 +9,7 @@
 
 ## **Official Variant:**
 
-> [!CAUTION]
+> [!TIP]
 > You are currently viewing the **"_Official_" _Variant_** of this **VengeanceRCL Project** section.  It should have the most up-to-date content available since its discovery.
 >
 > See, [Original Discovery](../../Discovery/EditingVideoswithShotcut.md) to visit the `discovery` version of this section.

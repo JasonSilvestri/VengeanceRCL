@@ -1,4 +1,4 @@
-﻿# DDE GiveSendGo Discovery VengeanceRCL
+﻿# DDE GiveSendGo VengeanceRCL Discovery
 
 `GiveSendGo.com/DDE` (_Deaf, Disabled & Elderly_)™ Discovery acts as a basic blueprint for consistent, scalable, and maintainable creation of content and assets.
 
@@ -70,7 +70,7 @@ Due to Jason's dinosaur laptop, we use `Shotcut` as the quick and dirty video ed
 
 ---
 
-### Table of Contents: Key `Discovery` Resources
+### Table of Contents
 
 - [Overview](#overview)
 - [1. Storyboard Markers](./StoryboardMarkers.md)

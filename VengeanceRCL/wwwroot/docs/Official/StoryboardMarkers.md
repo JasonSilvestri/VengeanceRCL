@@ -35,7 +35,7 @@
 - [5. Editing Videos with Shotcut](../../Discovery/EditingVideoswithShotcut.md)
 - [6. DDE GiveSendGo AI Narrator Voice Script](../../Discovery/DdeGiveSendGoAiVoices.md)
 - [7. DDE GiveSendGo Campaign Sync](../../Discovery/DdeGiveSendGoCampaignSync.md)
-- [8. DDE GiveSendGo Legal](../../Discovery/DdeGiveSendGoLegal.md)
+- [8. DDE GiveSendGo Legal](../../Discovery/Legal/README.md)
 
 ---
 
